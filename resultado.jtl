@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586229501056,655,acessar google,200,OK,Grupo de Usuários 1-68,text,true,,15777,122,192,192,https://www.google.com.br/,647,0,544
+1586229500907,803,acessar google,200,OK,Grupo de Usuários 1-38,text,true,,15783,122,192,192,https://www.google.com.br/,796,0,686
+1586229501065,647,acessar google,200,OK,Grupo de Usuários 1-70,text,true,,15761,122,192,192,https://www.google.com.br/,641,0,535
+1586229500820,892,acessar google,200,OK,Grupo de Usuários 1-9,text,true,,15779,122,192,192,https://www.google.com.br/,883,0,781
+1586229501205,506,acessar google,200,OK,Grupo de Usuários 1-98,text,true,,15782,122,192,192,https://www.google.com.br/,498,0,395
+1586229500927,787,acessar google,200,OK,Grupo de Usuários 1-42,text,true,,15737,122,193,193,https://www.google.com.br/,780,0,673
+1586229500846,869,acessar google,200,OK,Grupo de Usuários 1-26,text,true,,15759,122,193,193,https://www.google.com.br/,858,0,755
+1586229500819,897,acessar google,200,OK,Grupo de Usuários 1-14,text,true,,15823,122,193,193,https://www.google.com.br/,890,0,782
+1586229501189,532,acessar google,200,OK,Grupo de Usuários 1-95,text,true,,15777,122,193,193,https://www.google.com.br/,528,0,425
+1586229500921,813,acessar google,200,OK,Grupo de Usuários 1-41,text,true,,15771,122,198,198,https://www.google.com.br/,799,0,689
+1586229501155,581,acessar google,200,OK,Grupo de Usuários 1-88,text,true,,15780,122,198,198,https://www.google.com.br/,566,0,456
+1586229501076,663,acessar google,200,OK,Grupo de Usuários 1-72,text,true,,15739,122,200,200,https://www.google.com.br/,653,0,538
+1586229500820,920,acessar google,200,OK,Grupo de Usuários 1-3,text,true,,16737,122,200,200,https://www.google.com.br/,907,0,795
+1586229500851,889,acessar google,200,OK,Grupo de Usuários 1-27,text,true,,15815,122,200,200,https://www.google.com.br/,873,0,761
+1586229501095,646,acessar google,200,OK,Grupo de Usuários 1-76,text,true,,15782,122,200,200,https://www.google.com.br/,640,0,519
+1586229500862,890,acessar google,200,OK,Grupo de Usuários 1-29,text,true,,15756,122,200,200,https://www.google.com.br/,879,0,762
+1586229501195,557,acessar google,200,OK,Grupo de Usuários 1-96,text,true,,15805,122,200,200,https://www.google.com.br/,549,0,420
+1586229501210,546,acessar google,200,OK,Grupo de Usuários 1-99,text,true,,15773,122,200,200,https://www.google.com.br/,537,0,416
+1586229501100,690,acessar google,200,OK,Grupo de Usuários 1-77,text,true,,15801,122,200,200,https://www.google.com.br/,652,0,524
+1586229501001,790,acessar google,200,OK,Grupo de Usuários 1-57,text,true,,15804,122,200,200,https://www.google.com.br/,755,0,624
+1586229500819,972,acessar google,200,OK,Grupo de Usuários 1-1,text,true,,15732,122,200,200,https://www.google.com.br/,933,0,806
+1586229500957,835,acessar google,200,OK,Grupo de Usuários 1-48,text,true,,15767,122,200,200,https://www.google.com.br/,809,0,670
+1586229501131,661,acessar google,200,OK,Grupo de Usuários 1-83,text,true,,15741,122,200,200,https://www.google.com.br/,630,0,484
+1586229500966,826,acessar google,200,OK,Grupo de Usuários 1-50,text,true,,15772,122,200,200,https://www.google.com.br/,795,0,661
+1586229501040,754,acessar google,200,OK,Grupo de Usuários 1-65,text,true,,15791,122,200,200,https://www.google.com.br/,750,0,585
+1586229501330,464,acessar google,200,OK,Grupo de Usuários 1-122,text,true,,15765,122,200,200,https://www.google.com.br/,460,0,305
+1586229501341,455,acessar google,200,OK,Grupo de Usuários 1-125,text,true,,15778,122,200,200,https://www.google.com.br/,448,0,287
+1586229501140,656,acessar google,200,OK,Grupo de Usuários 1-85,text,true,,15819,122,200,200,https://www.google.com.br/,653,0,488
+1586229501334,464,acessar google,200,OK,Grupo de Usuários 1-123,text,true,,15811,122,200,200,https://www.google.com.br/,460,0,300
+1586229501081,718,acessar google,200,OK,Grupo de Usuários 1-73,text,true,,15746,122,200,200,https://www.google.com.br/,713,0,548
+1586229501500,301,acessar google,200,OK,Grupo de Usuários 1-152,text,true,,15801,122,200,200,https://www.google.com.br/,297,0,142
+1586229501501,309,acessar google,200,OK,Grupo de Usuários 1-145,text,true,,15802,122,200,200,https://www.google.com.br/,298,0,140
+1586229501501,310,acessar google,200,OK,Grupo de Usuários 1-154,text,true,,15797,122,200,200,https://www.google.com.br/,305,0,139
+1586229501501,312,acessar google,200,OK,Grupo de Usuários 1-136,text,true,,15827,122,200,200,https://www.google.com.br/,309,0,141
+1586229500821,996,acessar google,200,OK,Grupo de Usuários 1-20,text,true,,15824,122,200,200,https://www.google.com.br/,989,0,828
+1586229501305,513,acessar google,200,OK,Grupo de Usuários 1-118,text,true,,15819,122,200,200,https://www.google.com.br/,506,0,336
+1586229501500,322,acessar google,200,OK,Grupo de Usuários 1-156,text,true,,15792,122,200,200,https://www.google.com.br/,318,0,156
+1586229501500,330,acessar google,200,OK,Grupo de Usuários 1-149,text,true,,15786,122,200,200,https://www.google.com.br/,324,0,161
+1586229501046,787,acessar google,200,OK,Grupo de Usuários 1-66,text,true,,15758,122,200,200,https://www.google.com.br/,777,0,612
+1586229500820,1016,acessar google,200,OK,Grupo de Usuários 1-5,text,true,,15804,122,200,200,https://www.google.com.br/,1003,0,836
+1586229501500,345,acessar google,200,OK,Grupo de Usuários 1-155,text,true,,15784,122,200,200,https://www.google.com.br/,334,0,161
+1586229500819,1035,acessar google,200,OK,Grupo de Usuários 1-10,text,true,,15755,122,200,200,https://www.google.com.br/,1012,0,837
+1586229501502,353,acessar google,200,OK,Grupo de Usuários 1-140,text,true,,15749,122,200,200,https://www.google.com.br/,338,0,156
+1586229500981,874,acessar google,200,OK,Grupo de Usuários 1-53,text,true,,15777,122,200,200,https://www.google.com.br/,871,0,676
+1586229501222,636,acessar google,200,OK,Grupo de Usuários 1-101,text,true,,15774,122,200,200,https://www.google.com.br/,627,0,435
+1586229501500,364,acessar google,200,OK,Grupo de Usuários 1-153,text,true,,15815,122,200,200,https://www.google.com.br/,358,0,161
+1586229501502,362,acessar google,200,OK,Grupo de Usuários 1-141,text,true,,15782,122,200,200,https://www.google.com.br/,357,0,170
+1586229500881,1001,acessar google,200,OK,Grupo de Usuários 1-33,text,true,,15814,122,200,200,https://www.google.com.br/,984,0,806
+1586229501502,380,acessar google,200,OK,Grupo de Usuários 1-137,text,true,,15765,122,200,200,https://www.google.com.br/,364,0,180
+1586229501290,593,acessar google,200,OK,Grupo de Usuários 1-112,text,true,,15800,122,200,200,https://www.google.com.br/,580,0,392
+1586229500827,1060,acessar google,200,OK,Grupo de Usuários 1-22,text,true,,15784,122,200,200,https://www.google.com.br/,1043,0,855
+1586229501295,593,acessar google,200,OK,Grupo de Usuários 1-115,text,true,,15766,122,200,200,https://www.google.com.br/,580,0,388
+1586229501311,578,acessar google,200,OK,Grupo de Usuários 1-119,text,true,,15754,122,200,200,https://www.google.com.br/,568,0,371
+1586229501230,661,acessar google,200,OK,Grupo de Usuários 1-103,text,true,,15840,122,200,200,https://www.google.com.br/,645,0,453
+1586229501106,792,acessar google,200,OK,Grupo de Usuários 1-78,text,true,,15765,122,200,200,https://www.google.com.br/,780,0,581
+1586229501060,847,acessar google,200,OK,Grupo de Usuários 1-69,text,true,,15769,122,200,200,https://www.google.com.br/,830,0,627
+1586229500916,991,acessar google,200,OK,Grupo de Usuários 1-40,text,true,,15800,122,200,200,https://www.google.com.br/,978,0,771
+1586229501502,407,acessar google,200,OK,Grupo de Usuários 1-133,text,true,,15794,122,200,200,https://www.google.com.br/,397,0,185
+1586229501503,407,acessar google,200,OK,Grupo de Usuários 1-129,text,true,,15759,122,200,200,https://www.google.com.br/,397,0,179
+1586229500820,1095,acessar google,200,OK,Grupo de Usuários 1-17,text,true,,15787,122,200,200,https://www.google.com.br/,1089,0,867
+1586229500820,1096,acessar google,200,OK,Grupo de Usuários 1-18,text,true,,15784,122,200,200,https://www.google.com.br/,1089,0,879
+1586229501005,913,acessar google,200,OK,Grupo de Usuários 1-58,text,true,,15772,122,200,200,https://www.google.com.br/,907,0,690
+1586229501290,632,acessar google,200,OK,Grupo de Usuários 1-114,text,true,,15738,122,200,200,https://www.google.com.br/,629,0,425
+1586229501115,810,acessar google,200,OK,Grupo de Usuários 1-80,text,true,,15767,122,200,200,https://www.google.com.br/,806,0,601
+1586229500829,1106,acessar google,200,OK,Grupo de Usuários 1-23,text,true,,15765,122,200,200,https://www.google.com.br/,1097,0,887
+1586229500951,986,acessar google,200,OK,Grupo de Usuários 1-47,text,true,,15803,122,200,200,https://www.google.com.br/,977,0,765
+1586229500985,957,acessar google,200,OK,Grupo de Usuários 1-54,text,true,,15785,122,200,200,https://www.google.com.br/,949,0,731
+1586229501174,770,acessar google,200,OK,Grupo de Usuários 1-92,text,true,,15819,122,200,200,https://www.google.com.br/,755,0,542
+1586229501200,748,acessar google,200,OK,Grupo de Usuários 1-97,text,true,,15761,122,200,200,https://www.google.com.br/,739,0,522
+1586229500820,1129,acessar google,200,OK,Grupo de Usuários 1-11,text,true,,15795,122,200,200,https://www.google.com.br/,1121,0,896
+1586229500945,1007,acessar google,200,OK,Grupo de Usuários 1-46,text,true,,15756,122,200,200,https://www.google.com.br/,1001,0,777
+1586229500820,1135,acessar google,200,OK,Grupo de Usuários 1-19,text,true,,15762,122,200,200,https://www.google.com.br/,1133,0,911
+1586229501171,795,acessar google,200,OK,Grupo de Usuários 1-91,text,true,,15806,122,200,200,https://www.google.com.br/,786,0,561
+1586229500896,1073,acessar google,200,OK,Grupo de Usuários 1-36,text,true,,15779,122,200,200,https://www.google.com.br/,1067,0,841
+1586229500959,1076,acessar google,200,OK,Grupo de Usuários 1-49,text,true,,15790,122,200,200,https://www.google.com.br/,1073,0,859
+1586229501282,756,acessar google,200,OK,Grupo de Usuários 1-113,text,true,,15789,122,200,200,https://www.google.com.br/,753,0,539
+1586229501300,740,acessar google,200,OK,Grupo de Usuários 1-117,text,true,,15835,122,200,200,https://www.google.com.br/,737,0,523
+1586229501085,958,acessar google,200,OK,Grupo de Usuários 1-74,text,true,,15759,122,200,200,https://www.google.com.br/,954,0,736
+1586229501145,899,acessar google,200,OK,Grupo de Usuários 1-86,text,true,,15783,122,200,200,https://www.google.com.br/,895,0,700
+1586229501316,732,acessar google,200,OK,Grupo de Usuários 1-120,text,true,,15806,122,200,200,https://www.google.com.br/,725,0,527
+1586229501125,929,acessar google,200,OK,Grupo de Usuários 1-82,text,true,,15776,122,200,200,https://www.google.com.br/,924,0,719
+1586229500996,1058,acessar google,200,OK,Grupo de Usuários 1-56,text,true,,15756,122,200,200,https://www.google.com.br/,1055,0,827
+1586229500819,1236,acessar google,200,OK,Grupo de Usuários 1-13,text,true,,15758,122,200,200,https://www.google.com.br/,1229,0,1026
+1586229500819,1240,acessar google,200,OK,Grupo de Usuários 1-16,text,true,,15808,122,200,200,https://www.google.com.br/,1237,0,1002
+1586229501237,822,acessar google,200,OK,Grupo de Usuários 1-104,text,true,,15752,122,200,200,https://www.google.com.br/,819,0,586
+1586229501296,764,acessar google,200,OK,Grupo de Usuários 1-116,text,true,,15822,122,200,200,https://www.google.com.br/,760,0,549
+1586229500819,1253,acessar google,200,OK,Grupo de Usuários 1-2,text,true,,15761,122,200,200,https://www.google.com.br/,1242,0,1037
+1586229500903,1177,acessar google,200,OK,Grupo de Usuários 1-37,text,true,,15786,122,200,200,https://www.google.com.br/,1161,0,954
+1586229501120,962,acessar google,200,OK,Grupo de Usuários 1-81,text,true,,15808,122,200,200,https://www.google.com.br/,942,0,745
+1586229501160,923,acessar google,200,OK,Grupo de Usuários 1-89,text,true,,15780,122,200,200,https://www.google.com.br/,910,0,697
+1586229501321,763,acessar google,200,OK,Grupo de Usuários 1-121,text,true,,15778,122,200,200,https://www.google.com.br/,755,0,536
+1586229501111,974,acessar google,200,OK,Grupo de Usuários 1-79,text,true,,15808,122,200,200,https://www.google.com.br/,969,0,712
+1586229501051,1044,acessar google,200,OK,Grupo de Usuários 1-67,text,true,,15794,122,200,200,https://www.google.com.br/,1040,0,791
+1586229501035,1065,acessar google,200,OK,Grupo de Usuários 1-64,text,true,,15773,122,200,200,https://www.google.com.br/,1062,0,828
+1586229500871,1232,acessar google,200,OK,Grupo de Usuários 1-31,text,true,,15825,122,200,200,https://www.google.com.br/,1228,0,993
+1586229501010,1096,acessar google,200,OK,Grupo de Usuários 1-59,text,true,,15782,122,200,200,https://www.google.com.br/,1093,0,854
+1586229501179,928,acessar google,200,OK,Grupo de Usuários 1-93,text,true,,15763,122,200,200,https://www.google.com.br/,906,0,686
+1586229500891,1216,acessar google,200,OK,Grupo de Usuários 1-35,text,true,,15782,122,200,200,https://www.google.com.br/,1213,0,973
+1586229501245,864,acessar google,200,OK,Grupo de Usuários 1-106,text,true,,15846,122,200,200,https://www.google.com.br/,850,0,613
+1586229501026,1088,acessar google,200,OK,Grupo de Usuários 1-62,text,true,,15796,122,200,200,https://www.google.com.br/,1073,0,843
+1586229501166,948,acessar google,200,OK,Grupo de Usuários 1-90,text,true,,15782,122,200,200,https://www.google.com.br/,931,0,698
+1586229501090,1026,acessar google,200,OK,Grupo de Usuários 1-75,text,true,,15807,122,200,200,https://www.google.com.br/,1016,0,779
+1586229501340,779,acessar google,200,OK,Grupo de Usuários 1-124,text,true,,15777,122,200,200,https://www.google.com.br/,776,0,524
+1586229501270,903,acessar google,200,OK,Grupo de Usuários 1-111,text,true,,15790,122,200,200,https://www.google.com.br/,894,0,641
+1586229501255,919,acessar google,200,OK,Grupo de Usuários 1-108,text,true,,15787,122,200,200,https://www.google.com.br/,915,0,647
+1586229501240,935,acessar google,200,OK,Grupo de Usuários 1-105,text,true,,15830,122,200,200,https://www.google.com.br/,930,0,669
+1586229500821,1355,acessar google,200,OK,Grupo de Usuários 1-21,text,true,,15785,122,200,200,https://www.google.com.br/,1350,0,1087
+1586229501266,914,acessar google,200,OK,Grupo de Usuários 1-110,text,true,,15790,122,200,200,https://www.google.com.br/,910,0,646
+1586229501215,967,acessar google,200,OK,Grupo de Usuários 1-100,text,true,,15762,122,200,200,https://www.google.com.br/,963,0,696
+1586229500820,1362,acessar google,200,OK,Grupo de Usuários 1-6,text,true,,15812,122,200,200,https://www.google.com.br/,1358,0,1088
+1586229501184,1001,acessar google,200,OK,Grupo de Usuários 1-94,text,true,,15764,122,200,200,https://www.google.com.br/,997,0,723
+1586229500875,1310,acessar google,200,OK,Grupo de Usuários 1-32,text,true,,15805,122,200,200,https://www.google.com.br/,1305,0,1074
+1586229500819,1367,acessar google,200,OK,Grupo de Usuários 1-8,text,true,,15790,122,200,200,https://www.google.com.br/,1364,0,1130
+1586229500867,1323,acessar google,200,OK,Grupo de Usuários 1-30,text,true,,15814,122,200,200,https://www.google.com.br/,1319,0,1082
+1586229501251,939,acessar google,200,OK,Grupo de Usuários 1-107,text,true,,15773,122,200,200,https://www.google.com.br/,935,0,698
+1586229501020,1173,acessar google,200,OK,Grupo de Usuários 1-61,text,true,,15797,122,200,200,https://www.google.com.br/,1167,0,937
+1586229500940,1254,acessar google,200,OK,Grupo de Usuários 1-45,text,true,,15788,122,200,200,https://www.google.com.br/,1247,0,1017
+1586229500911,1287,acessar google,200,OK,Grupo de Usuários 1-39,text,true,,15752,122,200,200,https://www.google.com.br/,1280,0,1041
+1586229501150,1052,acessar google,200,OK,Grupo de Usuários 1-87,text,true,,15804,122,200,200,https://www.google.com.br/,1045,0,811
+1586229500820,1382,acessar google,200,OK,Grupo de Usuários 1-4,text,true,,15793,122,200,200,https://www.google.com.br/,1373,0,1129
+1586229501225,982,acessar google,200,OK,Grupo de Usuários 1-102,text,true,,15741,122,200,200,https://www.google.com.br/,976,0,738
+1586229501503,712,acessar google,200,OK,Grupo de Usuários 1-128,text,true,,15853,122,200,200,https://www.google.com.br/,700,0,454
+1586229500935,1281,acessar google,200,OK,Grupo de Usuários 1-44,text,true,,15761,122,200,200,https://www.google.com.br/,1274,0,1037
+1586229500819,1398,acessar google,200,OK,Grupo de Usuários 1-15,text,true,,15777,122,200,200,https://www.google.com.br/,1388,0,1152
+1586229501015,1204,acessar google,200,OK,Grupo de Usuários 1-60,text,true,,15767,122,200,200,https://www.google.com.br/,1194,0,957
+1586229500971,1253,acessar google,200,OK,Grupo de Usuários 1-51,text,true,,15798,122,200,200,https://www.google.com.br/,1243,0,1000
+1586229500856,1373,acessar google,200,OK,Grupo de Usuários 1-28,text,true,,15783,122,200,200,https://www.google.com.br/,1360,0,1112
+1586229501136,1097,acessar google,200,OK,Grupo de Usuários 1-84,text,true,,15785,122,200,200,https://www.google.com.br/,1088,0,835
+1586229500990,1248,acessar google,200,OK,Grupo de Usuários 1-55,text,true,,15750,122,200,200,https://www.google.com.br/,1231,0,982
+1586229501348,897,acessar google,200,OK,Grupo de Usuários 1-126,text,true,,15778,122,200,200,https://www.google.com.br/,879,0,623
+1586229501678,569,acessar google,200,OK,Grupo de Usuários 1-164,text,true,,15813,122,200,200,https://www.google.com.br/,554,0,306
+1586229500931,1317,acessar google,200,OK,Grupo de Usuários 1-43,text,true,,15750,122,200,200,https://www.google.com.br/,1305,0,1040
+1586229501033,1215,acessar google,200,OK,Grupo de Usuários 1-63,text,true,,15840,122,200,200,https://www.google.com.br/,1204,0,940
+1586229500887,1362,acessar google,200,OK,Grupo de Usuários 1-34,text,true,,15769,122,200,200,https://www.google.com.br/,1347,0,1084
+1586229501070,1179,acessar google,200,OK,Grupo de Usuários 1-71,text,true,,15763,122,200,200,https://www.google.com.br/,1172,0,910
+1586229500820,1441,acessar google,200,OK,Grupo de Usuários 1-7,text,true,,15780,122,200,200,https://www.google.com.br/,1431,0,1160
+1586229501675,589,acessar google,200,OK,Grupo de Usuários 1-157,text,true,,15789,122,200,200,https://www.google.com.br/,585,0,318
+1586229501680,586,acessar google,200,OK,Grupo de Usuários 1-172,text,true,,15795,122,200,200,https://www.google.com.br/,581,0,313
+1586229501679,589,acessar google,200,OK,Grupo de Usuários 1-165,text,true,,15768,122,200,200,https://www.google.com.br/,583,0,315
+1586229501679,616,acessar google,200,OK,Grupo de Usuários 1-169,text,true,,15782,122,200,200,https://www.google.com.br/,602,0,484
+1586229501676,620,acessar google,200,OK,Grupo de Usuários 1-160,text,true,,15753,122,200,200,https://www.google.com.br/,608,0,487
+1586229501695,604,acessar google,200,OK,Grupo de Usuários 1-179,text,true,,15796,122,200,200,https://www.google.com.br/,589,0,468
+1586229501677,628,acessar google,200,OK,Grupo de Usuários 1-161,text,true,,15802,122,200,200,https://www.google.com.br/,621,0,486
+1586229501680,625,acessar google,200,OK,Grupo de Usuários 1-176,text,true,,15743,122,200,200,https://www.google.com.br/,618,0,483
+1586229501681,625,acessar google,200,OK,Grupo de Usuários 1-177,text,true,,15759,122,200,200,https://www.google.com.br/,617,0,490
+1586229501693,626,acessar google,200,OK,Grupo de Usuários 1-186,text,true,,15780,122,200,200,https://www.google.com.br/,613,0,481
+1586229501682,637,acessar google,200,OK,Grupo de Usuários 1-188,text,true,,15768,122,200,200,https://www.google.com.br/,618,0,495
+1586229501682,672,acessar google,200,OK,Grupo de Usuários 1-185,text,true,,15791,122,200,200,https://www.google.com.br/,661,0,499
+1586229501502,855,acessar google,200,OK,Grupo de Usuários 1-132,text,true,,15770,122,200,200,https://www.google.com.br/,844,0,685
+1586229501501,862,acessar google,200,OK,Grupo de Usuários 1-144,text,true,,15750,122,200,200,https://www.google.com.br/,845,0,685
+1586229501681,682,acessar google,200,OK,Grupo de Usuários 1-180,text,true,,15790,122,200,200,https://www.google.com.br/,677,0,496
+1586229501261,1105,acessar google,200,OK,Grupo de Usuários 1-109,text,true,,15753,122,200,200,https://www.google.com.br/,922,0,665
+1586229501682,684,acessar google,200,OK,Grupo de Usuários 1-192,text,true,,15784,122,200,200,https://www.google.com.br/,678,0,503
+1586229501723,645,acessar google,200,OK,Grupo de Usuários 1-178,text,true,,15747,122,200,200,https://www.google.com.br/,575,0,453
+1586229501684,688,acessar google,200,OK,Grupo de Usuários 1-190,text,true,,16759,122,200,200,https://www.google.com.br/,683,0,506
+1586229501501,871,acessar google,200,OK,Grupo de Usuários 1-148,text,true,,15786,122,200,200,https://www.google.com.br/,810,0,685
+1586229501682,691,acessar google,200,OK,Grupo de Usuários 1-189,text,true,,15774,122,200,200,https://www.google.com.br/,671,0,504
+1586229501681,693,acessar google,200,OK,Grupo de Usuários 1-181,text,true,,15765,122,200,200,https://www.google.com.br/,687,0,505
+1586229501693,680,acessar google,200,OK,Grupo de Usuários 1-183,text,true,,15776,122,200,200,https://www.google.com.br/,675,0,484
+1586229501681,693,acessar google,200,OK,Grupo de Usuários 1-184,text,true,,15793,122,200,200,https://www.google.com.br/,637,0,488
+1586229501742,633,acessar google,200,OK,Grupo de Usuários 1-174,text,true,,15752,122,200,200,https://www.google.com.br/,609,0,437
+1586229501694,682,acessar google,200,OK,Grupo de Usuários 1-182,text,true,,15809,122,200,200,https://www.google.com.br/,625,0,483
+1586229501742,635,acessar google,200,OK,Grupo de Usuários 1-175,text,true,,15838,122,200,200,https://www.google.com.br/,629,0,436
+1586229501687,691,acessar google,200,OK,Grupo de Usuários 1-187,text,true,,15810,122,200,200,https://www.google.com.br/,684,0,490
+1586229501683,699,acessar google,200,OK,Grupo de Usuários 1-193,text,true,,15760,122,200,200,https://www.google.com.br/,636,0,494
+1586229501748,640,acessar google,200,OK,Grupo de Usuários 1-167,text,true,,15776,122,200,200,https://www.google.com.br/,609,0,439
+1586229501743,648,acessar google,200,OK,Grupo de Usuários 1-171,text,true,,15784,122,200,200,https://www.google.com.br/,625,0,445
+1586229501680,711,acessar google,200,OK,Grupo de Usuários 1-173,text,true,,15791,122,200,200,https://www.google.com.br/,708,0,530
+1586229500976,1418,acessar google,200,OK,Grupo de Usuários 1-52,text,true,,15781,122,200,200,https://www.google.com.br/,1313,0,961
+1586229501749,679,acessar google,200,OK,Grupo de Usuários 1-166,text,true,,15793,122,200,200,https://www.google.com.br/,675,0,475
+1586229501754,735,acessar google,200,OK,Grupo de Usuários 1-131,text,true,,15749,122,200,200,https://www.google.com.br/,732,0,498
+1586229501751,742,acessar google,200,OK,Grupo de Usuários 1-162,text,true,,15791,122,200,200,https://www.google.com.br/,739,0,497
+1586229501753,743,acessar google,200,OK,Grupo de Usuários 1-159,text,true,,15756,122,200,200,https://www.google.com.br/,739,0,499
+1586229501757,766,acessar google,200,OK,Grupo de Usuários 1-134,text,true,,15812,122,200,200,https://www.google.com.br/,762,0,500
+1586229501751,776,acessar google,200,OK,Grupo de Usuários 1-163,text,true,,15790,122,200,200,https://www.google.com.br/,773,0,450
+1586229501758,775,acessar google,200,OK,Grupo de Usuários 1-150,text,true,,15773,122,200,200,https://www.google.com.br/,771,0,502
+1586229501759,774,acessar google,200,OK,Grupo de Usuários 1-147,text,true,,15784,122,200,200,https://www.google.com.br/,770,0,502
+1586229501756,782,acessar google,200,OK,Grupo de Usuários 1-158,text,true,,15763,122,200,200,https://www.google.com.br/,778,0,504
+1586229501757,782,acessar google,200,OK,Grupo de Usuários 1-135,text,true,,15784,122,200,200,https://www.google.com.br/,777,0,503
+1586229501757,796,acessar google,200,OK,Grupo de Usuários 1-127,text,true,,15817,122,200,200,https://www.google.com.br/,792,0,503
+1586229501757,800,acessar google,200,OK,Grupo de Usuários 1-138,text,true,,16703,122,200,200,https://www.google.com.br/,797,0,504
+1586229501759,803,acessar google,200,OK,Grupo de Usuários 1-146,text,true,,15757,122,200,200,https://www.google.com.br/,800,0,507
+1586229501759,818,acessar google,200,OK,Grupo de Usuários 1-130,text,true,,15767,122,200,200,https://www.google.com.br/,814,0,507
+1586229501761,821,acessar google,200,OK,Grupo de Usuários 1-199,text,true,,15751,122,200,200,https://www.google.com.br/,817,0,513
+1586229501760,827,acessar google,200,OK,Grupo de Usuários 1-151,text,true,,16728,122,200,200,https://www.google.com.br/,823,0,514
+1586229501758,835,acessar google,200,OK,Grupo de Usuários 1-139,text,true,,15807,122,200,200,https://www.google.com.br/,832,0,509
+1586229501759,839,acessar google,200,OK,Grupo de Usuários 1-143,text,true,,15761,122,200,200,https://www.google.com.br/,835,0,515
+1586229501762,836,acessar google,200,OK,Grupo de Usuários 1-198,text,true,,15773,122,200,200,https://www.google.com.br/,833,0,505
+1586229501812,810,acessar google,200,OK,Grupo de Usuários 1-196,text,true,,15794,122,200,200,https://www.google.com.br/,807,0,466
+1586229501776,851,acessar google,200,OK,Grupo de Usuários 1-197,text,true,,15828,122,200,200,https://www.google.com.br/,848,0,500
+1586229501772,860,acessar google,200,OK,Grupo de Usuários 1-200,text,true,,15761,122,200,200,https://www.google.com.br/,857,0,502
+1586229501807,830,acessar google,200,OK,Grupo de Usuários 1-168,text,true,,15804,122,200,200,https://www.google.com.br/,827,0,471
+1586229500821,1817,acessar google,200,OK,Grupo de Usuários 1-12,text,true,,15769,122,200,200,https://www.google.com.br/,1813,0,1460
+1586229501769,885,acessar google,200,OK,Grupo de Usuários 1-195,text,true,,15793,122,200,200,https://www.google.com.br/,881,0,507
+1586229501758,915,acessar google,200,OK,Grupo de Usuários 1-142,text,true,,16792,122,200,200,https://www.google.com.br/,911,0,509
+1586229501768,1025,acessar google,200,OK,Grupo de Usuários 1-194,text,true,,15763,122,200,200,https://www.google.com.br/,818,0,508
+1586229501744,1054,acessar google,200,OK,Grupo de Usuários 1-170,text,true,,15838,122,200,200,https://www.google.com.br/,1050,0,480
+1586229501815,995,acessar google,200,OK,Grupo de Usuários 1-191,text,true,,15811,122,200,200,https://www.google.com.br/,784,0,463
+1586229501817,1597,acessar bing,200,OK,Grupo de Usuários 1-20,text,true,,86780,243,200,200,https://www.bing.com/?cc=br,1090,0,1071
+1586229501817,1090,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-20,,true,,261,120,200,200,https://www.bing.com.br/,1090,0,1071
+1586229502907,507,acessar bing-1,200,OK,Grupo de Usuários 1-20,text,true,,86519,123,200,200,https://www.bing.com/?cc=br,319,0,157
+1586229501811,1614,acessar bing,200,OK,Grupo de Usuários 1-154,text,true,,86767,243,199,199,https://www.bing.com/?cc=br,1075,0,1038
+1586229501811,1075,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-154,,true,,261,120,199,199,https://www.bing.com.br/,1075,0,1038
+1586229502887,538,acessar bing-1,200,OK,Grupo de Usuários 1-154,text,true,,86506,123,199,199,https://www.bing.com/?cc=br,349,0,178
+1586229501807,1624,acessar bing,200,OK,Grupo de Usuários 1-48,text,true,,86775,243,198,198,https://www.bing.com/?cc=br,1079,0,1041
+1586229501807,1079,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-48,,true,,261,120,198,198,https://www.bing.com.br/,1079,0,1041
+1586229502262,1169,acessar bing,200,OK,Grupo de Usuários 1-7,text,true,,86780,243,198,198,https://www.bing.com/?cc=br,598,0,577
+1586229502888,543,acessar bing-1,200,OK,Grupo de Usuários 1-48,text,true,,86514,123,198,198,https://www.bing.com/?cc=br,370,0,177
+1586229502262,598,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-7,,true,,261,120,198,198,https://www.bing.com.br/,598,0,577
+1586229502860,571,acessar bing-1,200,OK,Grupo de Usuários 1-7,text,true,,86519,123,198,198,https://www.bing.com/?cc=br,394,0,205
+1586229500841,2594,acessar google,200,OK,Grupo de Usuários 1-25,text,true,,15792,122,196,196,https://www.google.com.br/,1345,0,1085
+1586229500835,2605,acessar google,200,OK,Grupo de Usuários 1-24,text,true,,15798,122,196,196,https://www.google.com.br/,1509,0,1102
+1586229501814,1808,acessar bing,200,OK,Grupo de Usuários 1-122,text,true,,86781,243,196,196,https://www.bing.com/?cc=br,1111,0,1081
+1586229501815,1807,acessar bing,200,OK,Grupo de Usuários 1-123,text,true,,86780,243,196,196,https://www.bing.com/?cc=br,1092,0,1072
+1586229501814,1111,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-122,,true,,261,120,196,196,https://www.bing.com.br/,1111,0,1081
+1586229501815,1092,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-123,,true,,261,120,196,196,https://www.bing.com.br/,1092,0,1072
+1586229502926,696,acessar bing-1,200,OK,Grupo de Usuários 1-122,text,true,,86520,123,196,196,https://www.bing.com/?cc=br,358,0,165
+1586229502908,714,acessar bing-1,200,OK,Grupo de Usuários 1-123,text,true,,86519,123,196,196,https://www.bing.com/?cc=br,366,0,176
+1586229502394,1348,acessar bing,200,OK,Grupo de Usuários 1-52,text,true,,86781,243,194,194,https://www.bing.com/?cc=br,531,0,501
+1586229502394,531,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-52,,true,,261,120,194,194,https://www.bing.com.br/,531,0,501
+1586229502926,816,acessar bing-1,200,OK,Grupo de Usuários 1-52,text,true,,86520,123,194,194,https://www.bing.com/?cc=br,362,0,165
+1586229501818,2005,acessar bing,200,OK,Grupo de Usuários 1-118,text,true,,86781,243,193,193,https://www.bing.com/?cc=br,1078,0,1050
+1586229501818,1078,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-118,,true,,261,120,193,193,https://www.bing.com.br/,1078,0,1050
+1586229502897,926,acessar bing-1,200,OK,Grupo de Usuários 1-118,text,true,,86520,123,193,193,https://www.bing.com/?cc=br,332,0,167
+1586229502182,1776,acessar bing,200,OK,Grupo de Usuários 1-100,text,true,,86781,243,192,192,https://www.bing.com/?cc=br,747,0,719
+1586229502182,747,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-100,,true,,261,120,192,192,https://www.bing.com.br/,747,0,719
+1586229502929,1029,acessar bing-1,200,OK,Grupo de Usuários 1-100,text,true,,86520,123,192,192,https://www.bing.com/?cc=br,401,0,162
+1586229502249,2127,acessar bing,200,OK,Grupo de Usuários 1-43,text,true,,86781,243,191,191,https://www.bing.com/?cc=br,679,0,652
+1586229502249,679,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-43,,true,,261,120,191,191,https://www.bing.com.br/,679,0,652
+1586229502929,1447,acessar bing-1,200,OK,Grupo de Usuários 1-43,text,true,,86520,123,191,191,https://www.bing.com/?cc=br,435,0,229
+1586229501807,2573,acessar bing,200,OK,Grupo de Usuários 1-1,text,true,,86781,243,190,190,https://www.bing.com/?cc=br,1091,0,1062
+1586229501807,1091,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-1,,true,,261,120,190,190,https://www.bing.com.br/,1091,0,1062
+1586229502898,1482,acessar bing-1,200,OK,Grupo de Usuários 1-1,text,true,,86520,123,190,190,https://www.bing.com/?cc=br,482,0,273
+1586229502116,2265,acessar bing,200,OK,Grupo de Usuários 1-75,text,true,,86767,243,189,189,https://www.bing.com/?cc=br,939,0,846
+1586229502116,939,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-75,,true,,261,120,189,189,https://www.bing.com.br/,939,0,846
+1586229503055,1326,acessar bing-1,200,OK,Grupo de Usuários 1-75,text,true,,86506,123,189,189,https://www.bing.com/?cc=br,589,0,162
+1586229502216,2166,acessar bing,200,OK,Grupo de Usuários 1-128,text,true,,86761,243,189,189,https://www.bing.com/?cc=br,682,0,653
+1586229502216,682,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-128,,true,,261,120,189,189,https://www.bing.com.br/,682,0,653
+1586229502898,1484,acessar bing-1,200,OK,Grupo de Usuários 1-128,text,true,,86500,123,189,189,https://www.bing.com/?cc=br,494,0,274
+1586229501815,2569,acessar bing,200,OK,Grupo de Usuários 1-85,text,true,,86780,243,187,187,https://www.bing.com/?cc=br,1073,0,1047
+1586229501815,1073,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-85,,true,,261,120,187,187,https://www.bing.com.br/,1073,0,1047
+1586229502889,1495,acessar bing-1,200,OK,Grupo de Usuários 1-85,text,true,,86519,123,187,187,https://www.bing.com/?cc=br,495,0,284
+1586229501809,2588,acessar bing,200,OK,Grupo de Usuários 1-42,text,true,,86767,243,186,186,https://www.bing.com/?cc=br,1089,0,1061
+1586229501809,1089,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-42,,true,,261,120,186,186,https://www.bing.com.br/,1089,0,1061
+1586229502898,1499,acessar bing-1,200,OK,Grupo de Usuários 1-42,text,true,,86506,123,186,186,https://www.bing.com/?cc=br,505,0,275
+1586229501814,2601,acessar bing,200,OK,Grupo de Usuários 1-125,text,true,,86781,243,185,185,https://www.bing.com/?cc=br,1074,0,1039
+1586229501814,1074,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-125,,true,,261,120,185,185,https://www.bing.com.br/,1074,0,1039
+1586229502889,1526,acessar bing-1,200,OK,Grupo de Usuários 1-125,text,true,,86520,123,185,185,https://www.bing.com/?cc=br,538,0,286
+1586229501815,2607,acessar bing,200,OK,Grupo de Usuários 1-41,text,true,,86780,243,184,184,https://www.bing.com/?cc=br,1071,0,1033
+1586229501815,1071,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-41,,true,,261,120,184,184,https://www.bing.com.br/,1071,0,1033
+1586229502887,1535,acessar bing-1,200,OK,Grupo de Usuários 1-41,text,true,,86519,123,184,184,https://www.bing.com/?cc=br,643,0,312
+1586229501814,2608,acessar bing,200,OK,Grupo de Usuários 1-50,text,true,,86767,243,184,184,https://www.bing.com/?cc=br,1042,0,1023
+1586229501814,1042,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-50,,true,,261,120,184,184,https://www.bing.com.br/,1042,0,1023
+1586229502857,1565,acessar bing-1,200,OK,Grupo de Usuários 1-50,text,true,,86506,123,184,184,https://www.bing.com/?cc=br,736,0,343
+1586229502249,2175,acessar bing,200,OK,Grupo de Usuários 1-63,text,true,,86780,243,182,182,https://www.bing.com/?cc=br,730,0,686
+1586229502249,730,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-63,,true,,261,120,182,182,https://www.bing.com.br/,730,0,686
+1586229502979,1445,acessar bing-1,200,OK,Grupo de Usuários 1-63,text,true,,86519,123,182,182,https://www.bing.com/?cc=br,542,0,218
+1586229501805,2629,acessar bing,200,OK,Grupo de Usuários 1-98,text,true,,86780,243,181,181,https://www.bing.com/?cc=br,1083,0,1048
+1586229501805,1083,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-98,,true,,261,120,181,181,https://www.bing.com.br/,1083,0,1048
+1586229502888,1546,acessar bing-1,200,OK,Grupo de Usuários 1-98,text,true,,86519,123,181,181,https://www.bing.com/?cc=br,747,0,315
+1586229502225,2220,acessar bing,200,OK,Grupo de Usuários 1-51,text,true,,86781,243,180,180,https://www.bing.com/?cc=br,759,0,695
+1586229502225,759,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-51,,true,,261,120,180,180,https://www.bing.com.br/,759,0,695
+1586229502984,1461,acessar bing-1,200,OK,Grupo de Usuários 1-51,text,true,,86520,123,180,180,https://www.bing.com/?cc=br,654,0,233
+1586229501808,2642,acessar bing,200,OK,Grupo de Usuários 1-77,text,true,,86781,243,179,179,https://www.bing.com/?cc=br,1079,0,1044
+1586229501808,1079,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-77,,true,,261,120,179,179,https://www.bing.com.br/,1079,0,1044
+1586229502889,1561,acessar bing-1,200,OK,Grupo de Usuários 1-77,text,true,,86520,123,179,179,https://www.bing.com/?cc=br,544,0,286
+1586229501800,2659,acessar bing,200,OK,Grupo de Usuários 1-73,text,true,,86767,243,178,178,https://www.bing.com/?cc=br,1088,0,1054
+1586229501800,1088,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-73,,true,,261,120,178,178,https://www.bing.com.br/,1088,0,1054
+1586229502889,1570,acessar bing-1,200,OK,Grupo de Usuários 1-73,text,true,,86506,123,178,178,https://www.bing.com/?cc=br,550,0,286
+1586229501776,2737,acessar bing,200,OK,Grupo de Usuários 1-38,text,true,,86781,243,177,177,https://www.bing.com/?cc=br,1112,0,1076
+1586229501776,1112,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-38,,true,,261,120,177,177,https://www.bing.com.br/,1112,0,1076
+1586229502889,1624,acessar bing-1,200,OK,Grupo de Usuários 1-38,text,true,,86520,123,177,177,https://www.bing.com/?cc=br,561,0,296
+1586229501776,2740,acessar bing,200,OK,Grupo de Usuários 1-26,text,true,,86775,243,176,176,https://www.bing.com/?cc=br,1121,0,1093
+1586229501776,1121,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-26,,true,,261,120,176,176,https://www.bing.com.br/,1121,0,1093
+1586229502898,1618,acessar bing-1,200,OK,Grupo de Usuários 1-26,text,true,,86514,123,176,176,https://www.bing.com/?cc=br,500,0,274
+1586229501814,2703,acessar bing,200,OK,Grupo de Usuários 1-65,text,true,,86781,243,176,176,https://www.bing.com/?cc=br,1074,0,1040
+1586229501814,1074,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-65,,true,,261,120,176,176,https://www.bing.com.br/,1074,0,1040
+1586229502889,1628,acessar bing-1,200,OK,Grupo de Usuários 1-65,text,true,,86520,123,176,176,https://www.bing.com/?cc=br,557,0,296
+1586229502191,2370,acessar bing,200,OK,Grupo de Usuários 1-107,text,true,,86761,243,174,174,https://www.bing.com/?cc=br,794,0,746
+1586229502191,794,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-107,,true,,261,120,174,174,https://www.bing.com.br/,794,0,746
+1586229502986,1575,acessar bing-1,200,OK,Grupo de Usuários 1-107,text,true,,86500,123,174,174,https://www.bing.com/?cc=br,477,0,208
+1586229502248,2325,acessar bing,200,OK,Grupo de Usuários 1-164,text,true,,86781,243,173,173,https://www.bing.com/?cc=br,640,0,605
+1586229502248,640,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-164,,true,,261,120,173,173,https://www.bing.com.br/,640,0,605
+1586229502889,1684,acessar bing-1,200,OK,Grupo de Usuários 1-164,text,true,,86520,123,173,173,https://www.bing.com/?cc=br,563,0,296
+1586229502246,2357,acessar bing,200,OK,Grupo de Usuários 1-126,text,true,,86780,243,172,172,https://www.bing.com/?cc=br,735,0,689
+1586229502246,735,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-126,,true,,261,120,172,172,https://www.bing.com.br/,735,0,689
+1586229502982,1621,acessar bing-1,200,OK,Grupo de Usuários 1-126,text,true,,86519,123,172,172,https://www.bing.com/?cc=br,493,0,212
+1586229502250,2361,acessar bing,200,OK,Grupo de Usuários 1-71,text,true,,86767,243,171,171,https://www.bing.com/?cc=br,679,0,650
+1586229502250,679,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-71,,true,,261,120,171,171,https://www.bing.com.br/,679,0,650
+1586229502931,1680,acessar bing-1,200,OK,Grupo de Usuários 1-71,text,true,,86506,123,171,171,https://www.bing.com/?cc=br,536,0,258
+1586229502234,2404,acessar bing,200,OK,Grupo de Usuários 1-84,text,true,,86761,243,170,170,https://www.bing.com/?cc=br,736,0,696
+1586229502234,736,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-84,,true,,261,120,170,170,https://www.bing.com.br/,736,0,696
+1586229502970,1668,acessar bing-1,200,OK,Grupo de Usuários 1-84,text,true,,86500,123,170,170,https://www.bing.com/?cc=br,517,0,223
+1586229502217,2425,acessar bing,200,OK,Grupo de Usuários 1-44,text,true,,86781,243,169,169,https://www.bing.com/?cc=br,754,0,700
+1586229502217,754,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-44,,true,,261,120,169,169,https://www.bing.com.br/,754,0,700
+1586229501845,2797,acessar bing,200,OK,Grupo de Usuários 1-155,text,true,,86766,243,169,169,https://www.bing.com/?cc=br,1134,0,1089
+1586229502971,1671,acessar bing-1,200,OK,Grupo de Usuários 1-44,text,true,,86520,123,169,169,https://www.bing.com/?cc=br,525,0,222
+1586229501845,1134,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-155,,true,,261,120,169,169,https://www.bing.com.br/,1134,0,1089
+1586229502983,1659,acessar bing-1,200,OK,Grupo de Usuários 1-155,text,true,,86505,123,169,169,https://www.bing.com/?cc=br,518,0,211
+1586229501831,2813,acessar bing,200,OK,Grupo de Usuários 1-149,text,true,,86767,243,167,167,https://www.bing.com/?cc=br,1065,0,1036
+1586229501831,1065,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-149,,true,,261,120,167,167,https://www.bing.com.br/,1065,0,1036
+1586229502896,1748,acessar bing-1,200,OK,Grupo de Usuários 1-149,text,true,,86506,123,167,167,https://www.bing.com/?cc=br,602,0,276
+1586229502198,2448,acessar bing,200,OK,Grupo de Usuários 1-39,text,true,,86766,243,166,166,https://www.bing.com/?cc=br,789,0,740
+1586229502198,789,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-39,,true,,261,120,166,166,https://www.bing.com.br/,789,0,740
+1586229502988,1658,acessar bing-1,200,OK,Grupo de Usuários 1-39,text,true,,86505,123,166,166,https://www.bing.com/?cc=br,517,0,207
+1586229501800,2851,acessar bing,200,OK,Grupo de Usuários 1-70,text,true,,86781,243,165,165,https://www.bing.com/?cc=br,1088,0,1055
+1586229501800,1088,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-70,,true,,261,120,165,165,https://www.bing.com.br/,1088,0,1055
+1586229502888,1763,acessar bing-1,200,OK,Grupo de Usuários 1-70,text,true,,86520,123,165,165,https://www.bing.com/?cc=br,629,0,310
+1586229501811,2842,acessar bing,200,OK,Grupo de Usuários 1-145,text,true,,86780,243,164,164,https://www.bing.com/?cc=br,1076,0,1041
+1586229501811,1076,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-145,,true,,261,120,164,164,https://www.bing.com.br/,1076,0,1041
+1586229502889,1764,acessar bing-1,200,OK,Grupo de Usuários 1-145,text,true,,86519,123,164,164,https://www.bing.com/?cc=br,627,0,308
+1586229502218,2450,acessar bing,200,OK,Grupo de Usuários 1-15,text,true,,86781,243,163,163,https://www.bing.com/?cc=br,761,0,716
+1586229502218,761,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-15,,true,,261,120,163,163,https://www.bing.com.br/,761,0,716
+1586229502980,1688,acessar bing-1,200,OK,Grupo de Usuários 1-15,text,true,,86520,123,163,163,https://www.bing.com/?cc=br,549,0,218
+1586229501855,2820,acessar bing,200,OK,Grupo de Usuários 1-10,text,true,,86781,243,162,162,https://www.bing.com/?cc=br,1052,0,1031
+1586229501855,1052,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-10,,true,,261,120,162,162,https://www.bing.com.br/,1052,0,1031
+1586229502908,1767,acessar bing-1,200,OK,Grupo de Usuários 1-10,text,true,,86520,123,162,162,https://www.bing.com/?cc=br,634,0,290
+1586229502191,2485,acessar bing,200,OK,Grupo de Usuários 1-30,text,true,,86780,243,162,162,https://www.bing.com/?cc=br,716,0,692
+1586229502191,716,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-30,,true,,261,120,162,162,https://www.bing.com.br/,716,0,692
+1586229502908,1768,acessar bing-1,200,OK,Grupo de Usuários 1-30,text,true,,86519,123,162,162,https://www.bing.com/?cc=br,634,0,291
+1586229501753,2926,acessar bing,200,OK,Grupo de Usuários 1-96,text,true,,86767,243,160,160,https://www.bing.com/?cc=br,1233,0,1183
+1586229501753,1233,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-96,,true,,261,120,160,160,https://www.bing.com.br/,1233,0,1183
+1586229502987,1692,acessar bing-1,200,OK,Grupo de Usuários 1-96,text,true,,86506,123,160,160,https://www.bing.com/?cc=br,562,0,210
+1586229501814,2887,acessar bing,200,OK,Grupo de Usuários 1-136,text,true,,86780,243,159,159,https://www.bing.com/?cc=br,1072,0,1038
+1586229501814,1072,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-136,,true,,261,120,159,159,https://www.bing.com.br/,1072,0,1038
+1586229502887,1814,acessar bing-1,200,OK,Grupo de Usuários 1-136,text,true,,86519,123,159,159,https://www.bing.com/?cc=br,685,0,312
+1586229502120,2601,acessar bing,200,OK,Grupo de Usuários 1-124,text,true,,86775,243,158,158,https://www.bing.com/?cc=br,787,0,764
+1586229502120,787,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-124,,true,,261,120,158,158,https://www.bing.com.br/,787,0,764
+1586229502908,1813,acessar bing-1,200,OK,Grupo de Usuários 1-124,text,true,,86514,123,158,158,https://www.bing.com/?cc=br,676,0,291
+1586229502195,2526,acessar bing,200,OK,Grupo de Usuários 1-45,text,true,,86781,243,157,157,https://www.bing.com/?cc=br,712,0,688
+1586229502195,712,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-45,,true,,261,120,157,157,https://www.bing.com.br/,712,0,688
+1586229502908,1813,acessar bing-1,200,OK,Grupo de Usuários 1-45,text,true,,86520,123,157,157,https://www.bing.com/?cc=br,672,0,292
+1586229502187,2548,acessar bing,200,OK,Grupo de Usuários 1-8,text,true,,86766,243,156,156,https://www.bing.com/?cc=br,799,0,750
+1586229502187,799,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-8,,true,,261,120,156,156,https://www.bing.com.br/,799,0,750
+1586229502987,1748,acessar bing-1,200,OK,Grupo de Usuários 1-8,text,true,,86505,123,156,156,https://www.bing.com/?cc=br,605,0,211
+1586229502185,2561,acessar bing,200,OK,Grupo de Usuários 1-94,text,true,,86781,243,155,155,https://www.bing.com/?cc=br,743,0,714
+1586229502185,743,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-94,,true,,261,120,155,155,https://www.bing.com.br/,743,0,714
+1586229502929,1817,acessar bing-1,200,OK,Grupo de Usuários 1-94,text,true,,86520,123,155,155,https://www.bing.com/?cc=br,675,0,271
+1586229502238,2516,acessar bing,200,OK,Grupo de Usuários 1-55,text,true,,86780,243,154,154,https://www.bing.com/?cc=br,744,0,698
+1586229502203,2551,acessar bing,200,OK,Grupo de Usuários 1-4,text,true,,86767,243,154,154,https://www.bing.com/?cc=br,777,0,732
+1586229502238,744,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-55,,true,,261,120,154,154,https://www.bing.com.br/,744,0,698
+1586229502203,777,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-4,,true,,261,120,154,154,https://www.bing.com.br/,777,0,732
+1586229502983,1771,acessar bing-1,200,OK,Grupo de Usuários 1-55,text,true,,86519,123,154,154,https://www.bing.com/?cc=br,643,0,233
+1586229502981,1773,acessar bing-1,200,OK,Grupo de Usuários 1-4,text,true,,86506,123,154,154,https://www.bing.com/?cc=br,650,0,235
+1586229501752,3002,acessar bing,200,OK,Grupo de Usuários 1-29,text,true,,86781,243,154,154,https://www.bing.com/?cc=br,1155,0,1136
+1586229501752,1155,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-29,,true,,261,120,154,154,https://www.bing.com.br/,1155,0,1136
+1586229502908,1846,acessar bing-1,200,OK,Grupo de Usuários 1-29,text,true,,86520,123,154,154,https://www.bing.com/?cc=br,711,0,292
+1586229502250,2520,acessar bing,200,OK,Grupo de Usuários 1-34,text,true,,86780,243,151,151,https://www.bing.com/?cc=br,675,0,639
+1586229502250,675,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-34,,true,,261,120,151,151,https://www.bing.com.br/,675,0,639
+1586229502926,1844,acessar bing-1,200,OK,Grupo de Usuários 1-34,text,true,,86519,123,151,151,https://www.bing.com/?cc=br,813,0,304
+1586229501803,2976,acessar bing,200,OK,Grupo de Usuários 1-9,text,true,,86780,243,150,150,https://www.bing.com/?cc=br,1085,0,1051
+1586229501803,1085,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-9,,true,,261,120,150,150,https://www.bing.com.br/,1085,0,1051
+1586229502889,1890,acessar bing-1,200,OK,Grupo de Usuários 1-9,text,true,,86519,123,150,150,https://www.bing.com/?cc=br,520,0,284
+1586229502208,2576,acessar bing,200,OK,Grupo de Usuários 1-102,text,true,,86781,243,149,149,https://www.bing.com/?cc=br,724,0,694
+1586229502208,724,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-102,,true,,261,120,149,149,https://www.bing.com.br/,724,0,694
+1586229502932,1852,acessar bing-1,200,OK,Grupo de Usuários 1-102,text,true,,86520,123,149,149,https://www.bing.com/?cc=br,859,0,353
+1586229501760,3045,acessar bing,200,OK,Grupo de Usuários 1-76,text,true,,86781,243,148,148,https://www.bing.com/?cc=br,1295,0,1201
+1586229501760,1295,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-76,,true,,261,120,148,148,https://www.bing.com.br/,1295,0,1201
+1586229503055,1750,acessar bing-1,200,OK,Grupo de Usuários 1-76,text,true,,86520,123,148,148,https://www.bing.com/?cc=br,707,0,214
+1586229502203,2605,acessar bing,200,OK,Grupo de Usuários 1-87,text,true,,86781,243,147,147,https://www.bing.com/?cc=br,851,0,760
+1586229502203,851,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-87,,true,,261,120,147,147,https://www.bing.com.br/,851,0,760
+1586229503054,1754,acessar bing-1,200,OK,Grupo de Usuários 1-87,text,true,,86520,123,147,147,https://www.bing.com/?cc=br,715,0,215
+1586229502370,2456,acessar bing,200,OK,Grupo de Usuários 1-178,text,true,,86781,243,146,146,https://www.bing.com/?cc=br,721,0,683
+1586229502370,721,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-178,,true,,261,120,146,146,https://www.bing.com.br/,721,0,683
+1586229503092,1734,acessar bing-1,200,OK,Grupo de Usuários 1-178,text,true,,86520,123,146,146,https://www.bing.com/?cc=br,746,0,215
+1586229502220,2622,acessar bing,200,OK,Grupo de Usuários 1-60,text,true,,86781,243,145,145,https://www.bing.com/?cc=br,837,0,744
+1586229502220,837,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-60,,true,,261,120,145,145,https://www.bing.com.br/,837,0,744
+1586229503057,1785,acessar bing-1,200,OK,Grupo de Usuários 1-60,text,true,,86520,123,145,145,https://www.bing.com/?cc=br,804,0,260
+1586229502374,2484,acessar bing,200,OK,Grupo de Usuários 1-144,text,true,,86781,243,144,144,https://www.bing.com/?cc=br,604,0,554
+1586229502374,604,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-144,,true,,261,120,144,144,https://www.bing.com.br/,604,0,554
+1586229502979,1879,acessar bing-1,200,OK,Grupo de Usuários 1-144,text,true,,86520,123,144,144,https://www.bing.com/?cc=br,900,0,339
+1586229502374,2497,acessar bing,200,OK,Grupo de Usuários 1-180,text,true,,86781,243,143,143,https://www.bing.com/?cc=br,675,0,558
+1586229502374,675,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-180,,true,,261,120,143,143,https://www.bing.com.br/,675,0,558
+1586229503050,1821,acessar bing-1,200,OK,Grupo de Usuários 1-180,text,true,,86520,123,143,143,https://www.bing.com/?cc=br,842,0,269
+1586229501888,2985,acessar bing,200,OK,Grupo de Usuários 1-22,text,true,,86775,243,142,142,https://www.bing.com/?cc=br,1193,0,1047
+1586229501888,1193,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-22,,true,,261,120,142,142,https://www.bing.com.br/,1193,0,1047
+1586229503081,1792,acessar bing-1,200,OK,Grupo de Usuários 1-22,text,true,,86514,123,142,142,https://www.bing.com/?cc=br,811,0,237
+1586229501899,3010,acessar bing,200,OK,Grupo de Usuários 1-78,text,true,,86761,243,141,141,https://www.bing.com/?cc=br,1179,0,1035
+1586229501899,1179,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-78,,true,,261,120,141,141,https://www.bing.com.br/,1179,0,1035
+1586229503079,1830,acessar bing-1,200,OK,Grupo de Usuários 1-78,text,true,,86500,123,141,141,https://www.bing.com/?cc=br,843,0,251
+1586229501909,3004,acessar bing,200,OK,Grupo de Usuários 1-133,text,true,,86781,243,140,140,https://www.bing.com/?cc=br,1171,0,1026
+1586229501909,1171,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-133,,true,,261,120,140,140,https://www.bing.com.br/,1171,0,1026
+1586229503080,1833,acessar bing-1,200,OK,Grupo de Usuários 1-133,text,true,,86520,123,140,140,https://www.bing.com/?cc=br,888,0,255
+1586229502379,2550,acessar bing,200,OK,Grupo de Usuários 1-182,text,true,,86766,243,139,139,https://www.bing.com/?cc=br,714,0,674
+1586229502379,714,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-182,,true,,261,120,139,139,https://www.bing.com.br/,714,0,674
+1586229503094,1835,acessar bing-1,200,OK,Grupo de Usuários 1-182,text,true,,86505,123,139,139,https://www.bing.com/?cc=br,722,0,194
+1586229502377,2565,acessar bing,200,OK,Grupo de Usuários 1-184,text,true,,86775,243,138,138,https://www.bing.com/?cc=br,705,0,548
+1586229502377,705,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-184,,true,,261,120,138,138,https://www.bing.com.br/,705,0,548
+1586229503082,1860,acessar bing-1,200,OK,Grupo de Usuários 1-184,text,true,,86514,123,138,138,https://www.bing.com/?cc=br,844,0,248
+1586229501949,2996,acessar bing,200,OK,Grupo de Usuários 1-97,text,true,,86775,243,137,137,https://www.bing.com/?cc=br,1132,0,987
+1586229501949,1132,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-97,,true,,261,120,137,137,https://www.bing.com.br/,1132,0,987
+1586229503082,1863,acessar bing-1,200,OK,Grupo de Usuários 1-97,text,true,,86514,123,137,137,https://www.bing.com/?cc=br,965,0,285
+1586229502182,2768,acessar bing,200,OK,Grupo de Usuários 1-6,text,true,,86775,243,136,136,https://www.bing.com/?cc=br,747,0,719
+1586229502182,747,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-6,,true,,261,120,136,136,https://www.bing.com.br/,747,0,719
+1586229502931,2019,acessar bing-1,200,OK,Grupo de Usuários 1-6,text,true,,86514,123,136,136,https://www.bing.com/?cc=br,882,0,359
+1586229502793,2171,acessar bing,200,OK,Grupo de Usuários 1-194,text,true,,86781,243,135,135,https://www.bing.com/?cc=br,364,0,271
+1586229502793,364,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-194,,true,,261,120,135,135,https://www.bing.com.br/,364,0,271
+1586229503158,1806,acessar bing-1,200,OK,Grupo de Usuários 1-194,text,true,,86520,123,135,135,https://www.bing.com/?cc=br,779,0,172
+1586229501908,3067,acessar bing,200,OK,Grupo de Usuários 1-69,text,true,,86780,243,134,134,https://www.bing.com/?cc=br,1179,0,1019
+1586229501908,1179,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-69,,true,,261,120,134,134,https://www.bing.com.br/,1179,0,1019
+1586229503087,1888,acessar bing-1,200,OK,Grupo de Usuários 1-69,text,true,,86519,123,134,134,https://www.bing.com/?cc=br,1060,0,338
+1586229502374,2606,acessar bing,200,OK,Grupo de Usuários 1-183,text,true,,86781,243,133,133,https://www.bing.com/?cc=br,720,0,681
+1586229502374,720,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-183,,true,,261,120,133,133,https://www.bing.com.br/,720,0,681
+1586229503095,1885,acessar bing-1,200,OK,Grupo de Usuários 1-183,text,true,,86520,123,133,133,https://www.bing.com/?cc=br,905,0,252
+1586229501883,3106,acessar bing,200,OK,Grupo de Usuários 1-137,text,true,,86780,243,132,132,https://www.bing.com/?cc=br,1196,0,1052
+1586229501883,1196,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-137,,true,,261,120,132,132,https://www.bing.com.br/,1196,0,1052
+1586229503080,1909,acessar bing-1,200,OK,Grupo de Usuários 1-137,text,true,,86519,123,132,132,https://www.bing.com/?cc=br,852,0,250
+1586229501919,3073,acessar bing,200,OK,Grupo de Usuários 1-58,text,true,,86767,243,131,131,https://www.bing.com/?cc=br,1162,0,1016
+1586229501919,1162,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-58,,true,,261,120,131,131,https://www.bing.com.br/,1162,0,1016
+1586229503082,1910,acessar bing-1,200,OK,Grupo de Usuários 1-58,text,true,,86506,123,131,131,https://www.bing.com/?cc=br,963,0,281
+1586229501917,3082,acessar bing,200,OK,Grupo de Usuários 1-18,text,true,,86781,243,130,130,https://www.bing.com/?cc=br,1168,0,1020
+1586229501917,1168,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-18,,true,,261,120,130,130,https://www.bing.com.br/,1168,0,1020
+1586229503085,1914,acessar bing-1,200,OK,Grupo de Usuários 1-18,text,true,,86520,123,130,130,https://www.bing.com/?cc=br,985,0,290
+1586229502375,2625,acessar bing,200,OK,Grupo de Usuários 1-181,text,true,,86761,243,129,129,https://www.bing.com/?cc=br,730,0,553
+1586229502375,730,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-181,,true,,261,120,129,129,https://www.bing.com.br/,730,0,553
+1586229503105,1895,acessar bing-1,200,OK,Grupo de Usuários 1-181,text,true,,86500,123,129,129,https://www.bing.com/?cc=br,1095,0,334
+1586229501864,3150,acessar bing,200,OK,Grupo de Usuários 1-153,text,true,,86781,243,128,128,https://www.bing.com/?cc=br,1218,0,1056
+1586229501864,1218,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-153,,true,,261,120,128,128,https://www.bing.com.br/,1218,0,1056
+1586229503083,1931,acessar bing-1,200,OK,Grupo de Usuários 1-153,text,true,,86520,123,128,128,https://www.bing.com/?cc=br,983,0,294
+1586229501910,3107,acessar bing,200,OK,Grupo de Usuários 1-129,text,true,,86781,243,127,127,https://www.bing.com/?cc=br,1174,0,1026
+1586229501910,1174,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-129,,true,,261,120,127,127,https://www.bing.com.br/,1174,0,1026
+1586229503084,1933,acessar bing-1,200,OK,Grupo de Usuários 1-129,text,true,,86520,123,127,127,https://www.bing.com/?cc=br,1021,0,306
+1586229502373,2650,acessar bing,200,OK,Grupo de Usuários 1-189,text,true,,86781,243,126,126,https://www.bing.com/?cc=br,793,0,586
+1586229502373,793,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-189,,true,,261,120,126,126,https://www.bing.com.br/,793,0,586
+1586229503166,1857,acessar bing-1,200,OK,Grupo de Usuários 1-189,text,true,,86520,123,126,126,https://www.bing.com/?cc=br,1099,0,316
+1586229501916,3111,acessar bing,200,OK,Grupo de Usuários 1-17,text,true,,86775,243,125,125,https://www.bing.com/?cc=br,1168,0,1020
+1586229501916,1168,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-17,,true,,261,120,125,125,https://www.bing.com.br/,1168,0,1020
+1586229503084,1943,acessar bing-1,200,OK,Grupo de Usuários 1-17,text,true,,86514,123,125,125,https://www.bing.com/?cc=br,1077,0,336
+1586229501943,3089,acessar bing,200,OK,Grupo de Usuários 1-54,text,true,,86775,243,124,124,https://www.bing.com/?cc=br,1226,0,1022
+1586229501943,1226,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-54,,true,,261,120,124,124,https://www.bing.com.br/,1226,0,1022
+1586229503169,1863,acessar bing-1,200,OK,Grupo de Usuários 1-54,text,true,,86514,123,124,124,https://www.bing.com/?cc=br,1088,0,297
+1586229501953,3087,acessar bing,200,OK,Grupo de Usuários 1-46,text,true,,86781,243,123,123,https://www.bing.com/?cc=br,1132,0,985
+1586229501953,1132,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-46,,true,,261,120,123,123,https://www.bing.com.br/,1132,0,985
+1586229503085,1955,acessar bing-1,200,OK,Grupo de Usuários 1-46,text,true,,86520,123,123,123,https://www.bing.com/?cc=br,1145,0,292
+1586229501865,3179,acessar bing,200,OK,Grupo de Usuários 1-141,text,true,,86781,243,122,122,https://www.bing.com/?cc=br,1218,0,1062
+1586229501865,1218,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-141,,true,,261,120,122,122,https://www.bing.com.br/,1218,0,1062
+1586229503083,1961,acessar bing-1,200,OK,Grupo de Usuários 1-141,text,true,,86520,123,122,122,https://www.bing.com/?cc=br,1135,0,356
+1586229501776,3270,acessar bing,200,OK,Grupo de Usuários 1-14,text,true,,86767,243,121,121,https://www.bing.com/?cc=br,1176,0,1128
+1586229501776,1176,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-14,,true,,261,120,121,121,https://www.bing.com.br/,1176,0,1128
+1586229502374,2672,acessar bing,200,OK,Grupo de Usuários 1-185,text,true,,86761,243,121,121,https://www.bing.com/?cc=br,578,0,533
+1586229502953,2093,acessar bing-1,200,OK,Grupo de Usuários 1-14,text,true,,86506,123,121,121,https://www.bing.com/?cc=br,1510,0,783
+1586229502374,578,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-185,,true,,261,120,121,121,https://www.bing.com.br/,578,0,533
+1586229502952,2094,acessar bing-1,200,OK,Grupo de Usuários 1-185,text,true,,86500,123,121,121,https://www.bing.com/?cc=br,1512,0,784
+1586229502114,2934,acessar bing,200,OK,Grupo de Usuários 1-62,text,true,,86767,243,119,119,https://www.bing.com/?cc=br,837,0,802
+1586229502114,837,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-62,,true,,261,120,119,119,https://www.bing.com.br/,837,0,802
+1586229502952,2096,acessar bing-1,200,OK,Grupo de Usuários 1-62,text,true,,86506,123,119,119,https://www.bing.com/?cc=br,1526,0,786
+1586229502193,2862,acessar bing,200,OK,Grupo de Usuários 1-61,text,true,,86781,243,118,118,https://www.bing.com/?cc=br,736,0,707
+1586229502193,736,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-61,,true,,261,120,118,118,https://www.bing.com.br/,736,0,707
+1586229502931,2124,acessar bing-1,200,OK,Grupo de Usuários 1-61,text,true,,86520,123,118,118,https://www.bing.com/?cc=br,1596,0,825
+1586229502377,2685,acessar bing,200,OK,Grupo de Usuários 1-175,text,true,,86781,243,117,117,https://www.bing.com/?cc=br,690,0,646
+1586229502377,690,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-175,,true,,261,120,117,117,https://www.bing.com.br/,690,0,646
+1586229503067,1995,acessar bing-1,200,OK,Grupo de Usuários 1-175,text,true,,86520,123,117,117,https://www.bing.com/?cc=br,1474,0,693
+1586229502378,2690,acessar bing,200,OK,Grupo de Usuários 1-187,text,true,,86775,243,116,116,https://www.bing.com/?cc=br,690,0,645
+1586229502378,690,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-187,,true,,261,120,116,116,https://www.bing.com.br/,690,0,645
+1586229503068,2000,acessar bing-1,200,OK,Grupo de Usuários 1-187,text,true,,86514,123,116,116,https://www.bing.com/?cc=br,1493,0,707
+1586229502114,2983,acessar bing,200,OK,Grupo de Usuários 1-90,text,true,,86781,243,115,115,https://www.bing.com/?cc=br,837,0,803
+1586229502114,837,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-90,,true,,261,120,115,115,https://www.bing.com.br/,837,0,803
+1586229502953,2144,acessar bing-1,200,OK,Grupo de Usuários 1-90,text,true,,86520,123,115,115,https://www.bing.com/?cc=br,1560,0,791
+1586229502376,2726,acessar bing,200,OK,Grupo de Usuários 1-192,text,true,,86781,243,115,115,https://www.bing.com/?cc=br,576,0,531
+1586229502376,576,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-192,,true,,261,120,115,115,https://www.bing.com.br/,576,0,531
+1586229502953,2149,acessar bing-1,200,OK,Grupo de Usuários 1-192,text,true,,86520,123,115,115,https://www.bing.com/?cc=br,1569,0,791
+1586229502036,3067,acessar bing,200,OK,Grupo de Usuários 1-49,text,true,,86781,243,114,114,https://www.bing.com/?cc=br,1128,0,921
+1586229502036,1128,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-49,,true,,261,120,114,114,https://www.bing.com.br/,1128,0,921
+1586229503164,1939,acessar bing-1,200,OK,Grupo de Usuários 1-49,text,true,,86520,123,114,114,https://www.bing.com/?cc=br,1232,0,473
+1586229502391,2762,acessar bing,200,OK,Grupo de Usuários 1-171,text,true,,86780,243,112,112,https://www.bing.com/?cc=br,666,0,584
+1586229502391,666,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-171,,true,,261,120,112,112,https://www.bing.com.br/,666,0,584
+1586229503058,2095,acessar bing-1,200,OK,Grupo de Usuários 1-171,text,true,,86519,123,112,112,https://www.bing.com/?cc=br,754,0,229
+1586229502798,2372,acessar bing,200,OK,Grupo de Usuários 1-170,text,true,,86781,243,111,111,https://www.bing.com/?cc=br,358,0,265
+1586229502798,358,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-170,,true,,261,120,111,111,https://www.bing.com.br/,358,0,265
+1586229503157,2013,acessar bing-1,200,OK,Grupo de Usuários 1-170,text,true,,86520,123,111,111,https://www.bing.com/?cc=br,886,0,206
+1586229502370,2811,acessar bing,200,OK,Grupo de Usuários 1-188,text,true,,86767,243,110,110,https://www.bing.com/?cc=br,795,0,589
+1586229502370,795,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-188,,true,,261,120,110,110,https://www.bing.com.br/,795,0,589
+1586229503165,2016,acessar bing-1,200,OK,Grupo de Usuários 1-188,text,true,,86506,123,110,110,https://www.bing.com/?cc=br,1224,0,468
+1586229502230,2951,acessar bing,200,OK,Grupo de Usuários 1-28,text,true,,86780,243,110,110,https://www.bing.com/?cc=br,824,0,733
+1586229502230,824,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-28,,true,,261,120,110,110,https://www.bing.com.br/,824,0,733
+1586229503054,2127,acessar bing-1,200,OK,Grupo de Usuários 1-28,text,true,,86519,123,110,110,https://www.bing.com/?cc=br,1541,0,758
+1586229502388,2812,acessar bing,200,OK,Grupo de Usuários 1-167,text,true,,86761,243,108,108,https://www.bing.com/?cc=br,668,0,583
+1586229502388,668,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-167,,true,,261,120,108,108,https://www.bing.com.br/,668,0,583
+1586229503057,2143,acessar bing-1,200,OK,Grupo de Usuários 1-167,text,true,,86500,123,108,108,https://www.bing.com/?cc=br,1546,0,767
+1586229502378,2823,acessar bing,200,OK,Grupo de Usuários 1-174,text,true,,86774,243,108,108,https://www.bing.com/?cc=br,688,0,645
+1586229502378,688,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-174,,true,,261,120,108,108,https://www.bing.com.br/,688,0,645
+1586229503066,2135,acessar bing-1,200,OK,Grupo de Usuários 1-174,text,true,,86513,123,108,108,https://www.bing.com/?cc=br,1502,0,709
+1586229502811,2390,acessar bing,200,OK,Grupo de Usuários 1-191,text,true,,86781,243,108,108,https://www.bing.com/?cc=br,252,0,161
+1586229502811,252,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-191,,true,,261,120,108,108,https://www.bing.com.br/,252,0,161
+1586229503063,2138,acessar bing-1,200,OK,Grupo de Usuários 1-191,text,true,,86520,123,108,108,https://www.bing.com/?cc=br,1513,0,716
+1586229502374,2828,acessar bing,200,OK,Grupo de Usuários 1-132,text,true,,86774,243,107,107,https://www.bing.com/?cc=br,591,0,554
+1586229502374,591,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-132,,true,,261,120,107,107,https://www.bing.com.br/,591,0,554
+1586229502966,2236,acessar bing-1,200,OK,Grupo de Usuários 1-132,text,true,,86513,123,107,107,https://www.bing.com/?cc=br,1549,0,777
+1586229501801,3402,acessar bing,200,OK,Grupo de Usuários 1-152,text,true,,86781,243,105,105,https://www.bing.com/?cc=br,1128,0,1100
+1586229501801,1128,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-152,,true,,261,120,105,105,https://www.bing.com.br/,1128,0,1100
+1586229502931,2272,acessar bing-1,200,OK,Grupo de Usuários 1-152,text,true,,86520,123,105,105,https://www.bing.com/?cc=br,1586,0,816
+1586229501801,3402,acessar bing,200,OK,Grupo de Usuários 1-68,text,true,,86780,243,105,105,https://www.bing.com/?cc=br,1255,0,1163
+1586229501801,1255,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-68,,true,,261,120,105,105,https://www.bing.com.br/,1255,0,1163
+1586229503056,2147,acessar bing-1,200,OK,Grupo de Usuários 1-68,text,true,,86519,123,105,105,https://www.bing.com/?cc=br,1528,0,737
+1586229502373,3576,acessar bing,200,OK,Grupo de Usuários 1-148,text,true,,86775,243,102,102,https://www.bing.com/?cc=br,770,0,578
+1586229502373,770,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-148,,true,,261,120,102,102,https://www.bing.com.br/,770,0,578
+1586229503144,2805,acessar bing-1,200,OK,Grupo de Usuários 1-148,text,true,,86514,123,102,102,https://www.bing.com/?cc=br,1141,0,339
+1586229502044,8587,acessar bing,200,OK,Grupo de Usuários 1-86,text,true,,86781,243,101,101,https://www.bing.com/?cc=br,1126,0,920
+1586229502054,8577,acessar bing,200,OK,Grupo de Usuários 1-82,text,true,,86767,243,101,101,https://www.bing.com/?cc=br,1113,0,908
+1586229502044,1126,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-86,,true,,261,120,101,101,https://www.bing.com.br/,1126,0,920
+1586229502054,1113,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-82,,true,,261,120,101,101,https://www.bing.com.br/,1113,0,908
+1586229503170,7461,acessar bing-1,200,OK,Grupo de Usuários 1-86,text,true,,86520,123,101,101,https://www.bing.com/?cc=br,7282,0,7134
+1586229503168,7463,acessar bing-1,200,OK,Grupo de Usuários 1-82,text,true,,86506,123,101,101,https://www.bing.com/?cc=br,7277,0,7136
+1586229501923,8711,acessar bing,200,OK,Grupo de Usuários 1-114,text,true,,86781,243,100,100,https://www.bing.com/?cc=br,1246,0,1041
+1586229501923,1246,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-114,,true,,261,120,100,100,https://www.bing.com.br/,1246,0,1041
+1586229503169,7465,acessar bing-1,200,OK,Grupo de Usuários 1-114,text,true,,86520,123,100,100,https://www.bing.com/?cc=br,7290,0,7138
+1586229502372,8264,acessar bing,200,OK,Grupo de Usuários 1-109,text,true,,86775,243,98,98,https://www.bing.com/?cc=br,799,0,607
+1586229502372,799,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-109,,true,,261,120,98,98,https://www.bing.com.br/,799,0,607
+1586229503172,7464,acessar bing-1,200,OK,Grupo de Usuários 1-109,text,true,,86514,123,98,98,https://www.bing.com/?cc=br,7295,0,7135
+1586229502049,8588,acessar bing,200,OK,Grupo de Usuários 1-120,text,true,,86781,243,98,98,https://www.bing.com/?cc=br,1119,0,913
+1586229502049,1119,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-120,,true,,261,120,98,98,https://www.bing.com.br/,1119,0,913
+1586229503168,7469,acessar bing-1,200,OK,Grupo de Usuários 1-120,text,true,,86520,123,98,98,https://www.bing.com/?cc=br,7296,0,7139
+1586229502674,7968,acessar bing,200,OK,Grupo de Usuários 1-142,text,true,,86766,243,96,96,https://www.bing.com/?cc=br,524,0,484
+1586229502674,524,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-142,,true,,261,120,96,96,https://www.bing.com.br/,524,0,484
+1586229503199,7443,acessar bing-1,200,OK,Grupo de Usuários 1-142,text,true,,86505,123,96,96,https://www.bing.com/?cc=br,7273,0,7112
+1586229502039,8609,acessar bing,200,OK,Grupo de Usuários 1-113,text,true,,86781,243,95,95,https://www.bing.com/?cc=br,1131,0,925
+1586229502039,1131,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-113,,true,,261,120,95,95,https://www.bing.com.br/,1131,0,925
+1586229503170,7478,acessar bing-1,200,OK,Grupo de Usuários 1-113,text,true,,86520,123,95,95,https://www.bing.com/?cc=br,7306,0,7141
+1586229502041,8615,acessar bing,200,OK,Grupo de Usuários 1-117,text,true,,86780,243,94,94,https://www.bing.com/?cc=br,1125,0,920
+1586229502041,1125,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-117,,true,,261,120,94,94,https://www.bing.com.br/,1125,0,920
+1586229503167,7489,acessar bing-1,200,OK,Grupo de Usuários 1-117,text,true,,86519,123,94,94,https://www.bing.com/?cc=br,7323,0,7144
+1586229502638,8020,acessar bing,200,OK,Grupo de Usuários 1-168,text,true,,86781,243,93,93,https://www.bing.com/?cc=br,563,0,533
+1586229502638,563,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-168,,true,,261,120,93,93,https://www.bing.com.br/,563,0,533
+1586229503201,7457,acessar bing-1,200,OK,Grupo de Usuários 1-168,text,true,,86520,123,93,93,https://www.bing.com/?cc=br,7279,0,7116
+1586229502632,8046,acessar bing,200,OK,Grupo de Usuários 1-200,text,true,,86775,243,92,92,https://www.bing.com/?cc=br,569,0,541
+1586229502632,569,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-200,,true,,261,120,92,92,https://www.bing.com.br/,569,0,541
+1586229503201,7477,acessar bing-1,200,OK,Grupo de Usuários 1-200,text,true,,86514,123,92,92,https://www.bing.com/?cc=br,7300,0,7116
+1586229501757,8949,acessar bing,200,OK,Grupo de Usuários 1-99,text,true,,86781,243,91,91,https://www.bing.com/?cc=br,1504,0,1444
+1586229501757,1504,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-99,,true,,261,120,91,91,https://www.bing.com.br/,1504,0,1444
+1586229503262,7444,acessar bing-1,200,OK,Grupo de Usuários 1-99,text,true,,86520,123,91,91,https://www.bing.com/?cc=br,7344,0,7102
+1586229502628,8082,acessar bing,200,OK,Grupo de Usuários 1-197,text,true,,86780,243,90,90,https://www.bing.com/?cc=br,624,0,562
+1586229502628,624,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-197,,true,,261,120,90,90,https://www.bing.com.br/,624,0,562
+1586229503253,7457,acessar bing-1,200,OK,Grupo de Usuários 1-197,text,true,,86519,123,90,90,https://www.bing.com/?cc=br,7357,0,7105
+1586229502623,8096,acessar bing,200,OK,Grupo de Usuários 1-196,text,true,,86781,243,89,89,https://www.bing.com/?cc=br,661,0,573
+1586229502623,661,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-196,,true,,261,120,89,89,https://www.bing.com.br/,661,0,573
+1586229503285,7434,acessar bing-1,200,OK,Grupo de Usuários 1-196,text,true,,86520,123,89,89,https://www.bing.com/?cc=br,7354,0,7147
+1586229501761,8958,acessar bing,200,OK,Grupo de Usuários 1-72,text,true,,86775,243,89,89,https://www.bing.com/?cc=br,1557,0,1479
+1586229501761,1557,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-72,,true,,261,120,89,89,https://www.bing.com.br/,1557,0,1479
+1586229503318,7401,acessar bing-1,200,OK,Grupo de Usuários 1-72,text,true,,86514,123,89,89,https://www.bing.com/?cc=br,7330,0,7124
+1586229502060,8940,acessar bing,200,OK,Grupo de Usuários 1-116,text,true,,86767,243,87,87,https://www.bing.com/?cc=br,1434,0,1263
+1586229502060,1434,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-116,,true,,261,120,87,87,https://www.bing.com.br/,1434,0,1263
+1586229503495,7505,acessar bing-1,200,OK,Grupo de Usuários 1-116,text,true,,86506,123,87,87,https://www.bing.com/?cc=br,7384,0,7232
+1586229502082,8927,acessar bing,200,OK,Grupo de Usuários 1-81,text,true,,86780,243,86,86,https://www.bing.com/?cc=br,1408,0,1239
+1586229502082,1408,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-81,,true,,261,120,86,86,https://www.bing.com.br/,1408,0,1239
+1586229503491,7518,acessar bing-1,200,OK,Grupo de Usuários 1-81,text,true,,86519,123,86,86,https://www.bing.com/?cc=br,7396,0,7244
+1586229502372,8655,acessar bing,200,OK,Grupo de Usuários 1-190,text,true,,86781,243,85,85,https://www.bing.com/?cc=br,1115,0,945
+1586229502372,1115,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-190,,true,,261,120,85,85,https://www.bing.com.br/,1115,0,945
+1586229503487,7540,acessar bing-1,200,OK,Grupo de Usuários 1-190,text,true,,86520,123,85,85,https://www.bing.com/?cc=br,7396,0,7240
+1586229502370,8675,acessar bing,200,OK,Grupo de Usuários 1-186,text,true,,86760,243,84,84,https://www.bing.com/?cc=br,1117,0,948
+1586229502370,1117,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-186,,true,,261,120,84,84,https://www.bing.com.br/,1117,0,948
+1586229503487,7558,acessar bing-1,200,OK,Grupo de Usuários 1-186,text,true,,86499,123,84,84,https://www.bing.com/?cc=br,7405,0,7249
+1586229502055,9003,acessar bing,200,OK,Grupo de Usuários 1-13,text,true,,86781,243,83,83,https://www.bing.com/?cc=br,1567,0,1283
+1586229502055,1567,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-13,,true,,261,120,83,83,https://www.bing.com.br/,1567,0,1283
+1586229503623,7435,acessar bing-1,200,OK,Grupo de Usuários 1-13,text,true,,86520,123,83,83,https://www.bing.com/?cc=br,7360,0,7173
+1586229502174,8888,acessar bing,200,OK,Grupo de Usuários 1-111,text,true,,86767,243,82,82,https://www.bing.com/?cc=br,1448,0,1165
+1586229502174,1448,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-111,,true,,261,120,82,82,https://www.bing.com.br/,1448,0,1165
+1586229503623,7439,acessar bing-1,200,OK,Grupo de Usuários 1-111,text,true,,86506,123,82,82,https://www.bing.com/?cc=br,7331,0,7167
+1586229502186,8880,acessar bing,200,OK,Grupo de Usuários 1-32,text,true,,86775,243,81,81,https://www.bing.com/?cc=br,1436,0,1152
+1586229502186,1436,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-32,,true,,261,120,81,81,https://www.bing.com.br/,1436,0,1152
+1586229503624,7442,acessar bing-1,200,OK,Grupo de Usuários 1-32,text,true,,86514,123,81,81,https://www.bing.com/?cc=br,7348,0,7168
+1586229501762,9339,acessar bing,200,OK,Grupo de Usuários 1-88,text,true,,86780,243,80,80,https://www.bing.com/?cc=br,1727,0,1560
+1586229501762,1727,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-88,,true,,261,120,80,80,https://www.bing.com.br/,1727,0,1560
+1586229503489,7612,acessar bing-1,200,OK,Grupo de Usuários 1-88,text,true,,86519,123,80,80,https://www.bing.com/?cc=br,7382,0,7232
+1586229501956,9448,acessar bing,200,OK,Grupo de Usuários 1-19,text,true,,86781,243,79,79,https://www.bing.com/?cc=br,1893,0,1480
+1586229501956,1893,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-19,,true,,261,120,79,79,https://www.bing.com.br/,1893,0,1480
+1586229503849,7555,acessar bing-1,200,OK,Grupo de Usuários 1-19,text,true,,86520,123,79,79,https://www.bing.com/?cc=br,7380,0,7199
+1586229501967,9437,acessar bing,200,OK,Grupo de Usuários 1-91,text,true,,86781,243,79,79,https://www.bing.com/?cc=br,1890,0,1470
+1586229501967,1890,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-91,,true,,261,120,79,79,https://www.bing.com.br/,1890,0,1470
+1586229503858,7546,acessar bing-1,200,OK,Grupo de Usuários 1-91,text,true,,86520,123,79,79,https://www.bing.com/?cc=br,7377,0,7190
+1586229502108,9320,acessar bing,200,OK,Grupo de Usuários 1-35,text,true,,86780,243,77,77,https://www.bing.com/?cc=br,1751,0,1330
+1586229502108,1751,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-35,,true,,261,120,77,77,https://www.bing.com.br/,1751,0,1330
+1586229503859,7569,acessar bing-1,200,OK,Grupo de Usuários 1-35,text,true,,86519,123,77,77,https://www.bing.com/?cc=br,7371,0,7195
+1586229502060,9380,acessar bing,200,OK,Grupo de Usuários 1-104,text,true,,86780,243,76,76,https://www.bing.com/?cc=br,1799,0,1377
+1586229502060,1799,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-104,,true,,261,120,76,76,https://www.bing.com.br/,1799,0,1377
+1586229503863,7577,acessar bing-1,200,OK,Grupo de Usuários 1-104,text,true,,86519,123,76,76,https://www.bing.com/?cc=br,7377,0,7214
+1586229502059,9383,acessar bing,200,OK,Grupo de Usuários 1-16,text,true,,86781,243,75,75,https://www.bing.com/?cc=br,1800,0,1378
+1586229502059,1800,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-16,,true,,261,120,75,75,https://www.bing.com.br/,1800,0,1378
+1586229503859,7583,acessar bing-1,200,OK,Grupo de Usuários 1-16,text,true,,86520,123,75,75,https://www.bing.com/?cc=br,7375,0,7190
+1586229501925,9544,acessar bing,200,OK,Grupo de Usuários 1-80,text,true,,86775,243,74,74,https://www.bing.com/?cc=br,1934,0,1512
+1586229501925,1934,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-80,,true,,261,120,74,74,https://www.bing.com.br/,1934,0,1512
+1586229503861,7608,acessar bing-1,200,OK,Grupo de Usuários 1-80,text,true,,86514,123,74,74,https://www.bing.com/?cc=br,7395,0,7226
+1586229501945,9525,acessar bing,200,OK,Grupo de Usuários 1-92,text,true,,86781,243,74,74,https://www.bing.com/?cc=br,1914,0,1492
+1586229501945,1914,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-92,,true,,261,120,74,74,https://www.bing.com.br/,1914,0,1492
+1586229503862,7608,acessar bing-1,200,OK,Grupo de Usuários 1-92,text,true,,86520,123,74,74,https://www.bing.com/?cc=br,7385,0,7225
+1586229502101,9374,acessar bing,200,OK,Grupo de Usuários 1-64,text,true,,86767,243,72,72,https://www.bing.com/?cc=br,1758,0,1337
+1586229502101,1758,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-64,,true,,261,120,72,72,https://www.bing.com.br/,1758,0,1337
+1586229503862,7613,acessar bing-1,200,OK,Grupo de Usuários 1-64,text,true,,86506,123,72,72,https://www.bing.com/?cc=br,7400,0,7225
+1586229501936,9543,acessar bing,200,OK,Grupo de Usuários 1-23,text,true,,86780,243,71,71,https://www.bing.com/?cc=br,1913,0,1500
+1586229501936,1913,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-23,,true,,261,120,71,71,https://www.bing.com.br/,1913,0,1500
+1586229503849,7630,acessar bing-1,200,OK,Grupo de Usuários 1-23,text,true,,86519,123,71,71,https://www.bing.com/?cc=br,7436,0,7249
+1586229502055,9425,acessar bing,200,OK,Grupo de Usuários 1-56,text,true,,86780,243,71,71,https://www.bing.com/?cc=br,1804,0,1382
+1586229502055,1804,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-56,,true,,261,120,71,71,https://www.bing.com.br/,1804,0,1382
+1586229503862,7618,acessar bing-1,200,OK,Grupo de Usuários 1-56,text,true,,86519,123,71,71,https://www.bing.com/?cc=br,7428,0,7228
+1586229502085,9395,acessar bing,200,OK,Grupo de Usuários 1-79,text,true,,86780,243,71,71,https://www.bing.com/?cc=br,1774,0,1353
+1586229502085,1774,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-79,,true,,261,120,71,71,https://www.bing.com.br/,1774,0,1353
+1586229503861,7619,acessar bing-1,200,OK,Grupo de Usuários 1-79,text,true,,86519,123,71,71,https://www.bing.com/?cc=br,7437,0,7237
+1586229501969,9522,acessar bing,200,OK,Grupo de Usuários 1-36,text,true,,86767,243,68,68,https://www.bing.com/?cc=br,1890,0,1467
+1586229501969,1890,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-36,,true,,261,120,68,68,https://www.bing.com.br/,1890,0,1467
+1586229503860,7631,acessar bing-1,200,OK,Grupo de Usuários 1-36,text,true,,86506,123,68,68,https://www.bing.com/?cc=br,7444,0,7238
+1586229502104,9390,acessar bing,200,OK,Grupo de Usuários 1-31,text,true,,86781,243,67,67,https://www.bing.com/?cc=br,1755,0,1333
+1586229502104,1755,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-31,,true,,261,120,67,67,https://www.bing.com.br/,1755,0,1333
+1586229503860,7634,acessar bing-1,200,OK,Grupo de Usuários 1-31,text,true,,86520,123,67,67,https://www.bing.com/?cc=br,7476,0,7243
+1586229502107,9390,acessar bing,200,OK,Grupo de Usuários 1-59,text,true,,86775,243,66,66,https://www.bing.com/?cc=br,1752,0,1331
+1586229502107,1752,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-59,,true,,261,120,66,66,https://www.bing.com.br/,1752,0,1331
+1586229503860,7637,acessar bing-1,200,OK,Grupo de Usuários 1-59,text,true,,86514,123,66,66,https://www.bing.com/?cc=br,7487,0,7244
+1586229502095,9407,acessar bing,200,OK,Grupo de Usuários 1-67,text,true,,86780,243,65,65,https://www.bing.com/?cc=br,1765,0,1342
+1586229502095,1765,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-67,,true,,261,120,65,65,https://www.bing.com.br/,1765,0,1342
+1586229503861,7641,acessar bing-1,200,OK,Grupo de Usuários 1-67,text,true,,86519,123,65,65,https://www.bing.com/?cc=br,7478,0,7242
+1586229501882,9995,acessar bing,200,OK,Grupo de Usuários 1-33,text,true,,86780,243,64,64,https://www.bing.com/?cc=br,2444,0,1740
+1586229501882,2444,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-33,,true,,261,120,64,64,https://www.bing.com.br/,2444,0,1740
+1586229504327,7550,acessar bing-1,200,OK,Grupo de Usuários 1-33,text,true,,86519,123,64,64,https://www.bing.com/?cc=br,7391,0,7228
+1586229502296,9586,acessar bing,200,OK,Grupo de Usuários 1-169,text,true,,86780,243,63,63,https://www.bing.com/?cc=br,2134,0,1507
+1586229502308,9574,acessar bing,200,OK,Grupo de Usuários 1-176,text,true,,86781,243,63,63,https://www.bing.com/?cc=br,2080,0,1452
+1586229501837,10045,acessar bing,200,OK,Grupo de Usuários 1-5,text,true,,86781,243,63,63,https://www.bing.com/?cc=br,2621,0,2011
+1586229502296,2134,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-169,,true,,261,120,63,63,https://www.bing.com.br/,2134,0,1507
+1586229502308,2080,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-176,,true,,261,120,63,63,https://www.bing.com.br/,2080,0,1452
+1586229502297,9585,acessar bing,200,OK,Grupo de Usuários 1-160,text,true,,86781,243,63,63,https://www.bing.com/?cc=br,2086,0,1447
+1586229504431,7451,acessar bing-1,200,OK,Grupo de Usuários 1-169,text,true,,86519,123,63,63,https://www.bing.com/?cc=br,7341,0,7159
+1586229504388,7494,acessar bing-1,200,OK,Grupo de Usuários 1-176,text,true,,86520,123,63,63,https://www.bing.com/?cc=br,7373,0,7196
+1586229502297,2086,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-160,,true,,261,120,63,63,https://www.bing.com.br/,2086,0,1447
+1586229501837,2621,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-5,,true,,261,120,63,63,https://www.bing.com.br/,2621,0,2011
+1586229504384,7498,acessar bing-1,200,OK,Grupo de Usuários 1-160,text,true,,86520,123,63,63,https://www.bing.com/?cc=br,7357,0,7206
+1586229504459,7423,acessar bing-1,200,OK,Grupo de Usuários 1-5,text,true,,86520,123,63,63,https://www.bing.com/?cc=br,7313,0,7134
+1586229502382,9500,acessar bing,200,OK,Grupo de Usuários 1-193,text,true,,86780,243,63,63,https://www.bing.com/?cc=br,1995,0,1353
+1586229502382,1995,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-193,,true,,261,120,63,63,https://www.bing.com.br/,1995,0,1353
+1586229504378,7504,acessar bing-1,200,OK,Grupo de Usuários 1-193,text,true,,86519,123,63,63,https://www.bing.com/?cc=br,7396,0,7212
+1586229501859,10033,acessar bing,200,OK,Grupo de Usuários 1-101,text,true,,86781,243,58,58,https://www.bing.com/?cc=br,2600,0,1989
+1586229501859,2600,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-101,,true,,261,120,58,58,https://www.bing.com.br/,2600,0,1989
+1586229504460,7432,acessar bing-1,200,OK,Grupo de Usuários 1-101,text,true,,86520,123,58,58,https://www.bing.com/?cc=br,7320,0,7133
+1586229502654,9253,acessar bing,200,OK,Grupo de Usuários 1-195,text,true,,86775,243,57,57,https://www.bing.com/?cc=br,1701,0,983
+1586229502654,1701,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-195,,true,,261,120,57,57,https://www.bing.com.br/,1701,0,983
+1586229504356,7551,acessar bing-1,200,OK,Grupo de Usuários 1-195,text,true,,86514,123,57,57,https://www.bing.com/?cc=br,7400,0,7234
+1586229501856,10071,acessar bing,200,OK,Grupo de Usuários 1-53,text,true,,86775,243,56,56,https://www.bing.com/?cc=br,2685,0,2034
+1586229501856,2685,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-53,,true,,261,120,56,56,https://www.bing.com.br/,2685,0,2034
+1586229504542,7385,acessar bing-1,200,OK,Grupo de Usuários 1-53,text,true,,86514,123,56,56,https://www.bing.com/?cc=br,7315,0,7113
+1586229502265,9668,acessar bing,200,OK,Grupo de Usuários 1-157,text,true,,86781,243,55,55,https://www.bing.com/?cc=br,2276,0,1625
+1586229502265,2276,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-157,,true,,261,120,55,55,https://www.bing.com.br/,2276,0,1625
+1586229504542,7391,acessar bing-1,200,OK,Grupo de Usuários 1-157,text,true,,86520,123,55,55,https://www.bing.com/?cc=br,7326,0,7113
+1586229501814,10349,acessar bing,200,OK,Grupo de Usuários 1-83,text,true,,86775,243,54,54,https://www.bing.com/?cc=br,2802,0,2153
+1586229502300,9863,acessar bing,200,OK,Grupo de Usuários 1-179,text,true,,86781,243,54,54,https://www.bing.com/?cc=br,2328,0,1699
+1586229502269,9894,acessar bing,200,OK,Grupo de Usuários 1-165,text,true,,86766,243,54,54,https://www.bing.com/?cc=br,2325,0,1665
+1586229501814,2802,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-83,,true,,261,120,54,54,https://www.bing.com.br/,2802,0,2153
+1586229502300,2328,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-179,,true,,261,120,54,54,https://www.bing.com.br/,2328,0,1699
+1586229502269,2325,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-165,,true,,261,120,54,54,https://www.bing.com.br/,2325,0,1665
+1586229504616,7547,acessar bing-1,200,OK,Grupo de Usuários 1-83,text,true,,86514,123,54,54,https://www.bing.com/?cc=br,7410,0,7262
+1586229504629,7534,acessar bing-1,200,OK,Grupo de Usuários 1-179,text,true,,86520,123,54,54,https://www.bing.com/?cc=br,7401,0,7253
+1586229504594,7569,acessar bing-1,200,OK,Grupo de Usuários 1-165,text,true,,86505,123,54,54,https://www.bing.com/?cc=br,7446,0,7285
+1586229501833,10334,acessar bing,200,OK,Grupo de Usuários 1-66,text,true,,86781,243,51,51,https://www.bing.com/?cc=br,2782,0,2134
+1586229501833,2782,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-66,,true,,261,120,51,51,https://www.bing.com.br/,2782,0,2134
+1586229504616,7551,acessar bing-1,200,OK,Grupo de Usuários 1-66,text,true,,86520,123,51,51,https://www.bing.com/?cc=br,7406,0,7262
+1586229501855,10334,acessar bing,200,OK,Grupo de Usuários 1-140,text,true,,86780,243,50,50,https://www.bing.com/?cc=br,2739,0,2076
+1586229501855,2739,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-140,,true,,261,120,50,50,https://www.bing.com.br/,2739,0,2076
+1586229504594,7595,acessar bing-1,200,OK,Grupo de Usuários 1-140,text,true,,86519,123,50,50,https://www.bing.com/?cc=br,7482,0,7303
+1586229502267,9940,acessar bing,200,OK,Grupo de Usuários 1-172,text,true,,86780,243,49,49,https://www.bing.com/?cc=br,2361,0,1732
+1586229501823,10384,acessar bing,200,OK,Grupo de Usuários 1-156,text,true,,86780,243,49,49,https://www.bing.com/?cc=br,2792,0,2141
+1586229502267,2361,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-172,,true,,261,120,49,49,https://www.bing.com.br/,2361,0,1732
+1586229501823,2792,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-156,,true,,261,120,49,49,https://www.bing.com.br/,2792,0,2141
+1586229504628,7579,acessar bing-1,200,OK,Grupo de Usuários 1-172,text,true,,86519,123,49,49,https://www.bing.com/?cc=br,7463,0,7269
+1586229504616,7591,acessar bing-1,200,OK,Grupo de Usuários 1-156,text,true,,86519,123,49,49,https://www.bing.com/?cc=br,7465,0,7281
+1586229501814,10408,acessar bing,200,OK,Grupo de Usuários 1-57,text,true,,86775,243,47,47,https://www.bing.com/?cc=br,2797,0,2145
+1586229501814,2797,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-57,,true,,261,120,47,47,https://www.bing.com.br/,2797,0,2145
+1586229504611,7611,acessar bing-1,200,OK,Grupo de Usuários 1-57,text,true,,86514,123,47,47,https://www.bing.com/?cc=br,7487,0,7281
+1586229502577,9923,acessar bing,200,OK,Grupo de Usuários 1-130,text,true,,86767,243,46,46,https://www.bing.com/?cc=br,2244,0,1871
+1586229502577,2244,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-130,,true,,261,120,46,46,https://www.bing.com.br/,2244,0,1871
+1586229504822,7678,acessar bing-1,200,OK,Grupo de Usuários 1-130,text,true,,86506,123,46,46,https://www.bing.com/?cc=br,7344,0,7176
+1586229502534,9966,acessar bing,200,OK,Grupo de Usuários 1-147,text,true,,86767,243,46,46,https://www.bing.com/?cc=br,2287,0,1921
+1586229502534,2287,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-147,,true,,261,120,46,46,https://www.bing.com.br/,2287,0,1921
+1586229504822,7678,acessar bing-1,200,OK,Grupo de Usuários 1-147,text,true,,86506,123,46,46,https://www.bing.com/?cc=br,7349,0,7176
+1586229503441,9062,acessar bing,200,OK,Grupo de Usuários 1-24,text,true,,86775,243,44,44,https://www.bing.com/?cc=br,7301,0,7273
+1586229502594,9909,acessar bing,200,OK,Grupo de Usuários 1-139,text,true,,86780,243,44,44,https://www.bing.com/?cc=br,2217,0,1854
+1586229503441,7301,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-24,,true,,261,120,44,44,https://www.bing.com.br/,7301,0,7273
+1586229510743,1760,acessar bing-1,200,OK,Grupo de Usuários 1-24,text,true,,86514,123,44,44,https://www.bing.com/?cc=br,1432,0,1253
+1586229502594,2217,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-139,,true,,261,120,44,44,https://www.bing.com.br/,2217,0,1854
+1586229504811,7692,acessar bing-1,200,OK,Grupo de Usuários 1-139,text,true,,86519,123,44,44,https://www.bing.com/?cc=br,7367,0,7190
+1586229502587,9942,acessar bing,200,OK,Grupo de Usuários 1-151,text,true,,86760,243,42,42,https://www.bing.com/?cc=br,2224,0,1861
+1586229502587,2224,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-151,,true,,261,120,42,42,https://www.bing.com.br/,2224,0,1861
+1586229504811,7718,acessar bing-1,200,OK,Grupo de Usuários 1-151,text,true,,86499,123,42,42,https://www.bing.com/?cc=br,7385,0,7198
+1586229502558,9974,acessar bing,200,OK,Grupo de Usuários 1-138,text,true,,86780,243,41,41,https://www.bing.com/?cc=br,2263,0,1892
+1586229502558,2263,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-138,,true,,261,120,41,41,https://www.bing.com.br/,2263,0,1892
+1586229504822,7710,acessar bing-1,200,OK,Grupo de Usuários 1-138,text,true,,86519,123,41,41,https://www.bing.com/?cc=br,7374,0,7187
+1586229502538,10017,acessar bing,200,OK,Grupo de Usuários 1-158,text,true,,86761,243,40,40,https://www.bing.com/?cc=br,2283,0,1918
+1586229502538,2283,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-158,,true,,261,120,40,40,https://www.bing.com.br/,2283,0,1918
+1586229504822,7733,acessar bing-1,200,OK,Grupo de Usuários 1-158,text,true,,86500,123,40,40,https://www.bing.com/?cc=br,7398,0,7197
+1586229502523,10034,acessar bing,200,OK,Grupo de Usuários 1-134,text,true,,86780,243,39,39,https://www.bing.com/?cc=br,2319,0,1939
+1586229502523,2319,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-134,,true,,261,120,39,39,https://www.bing.com.br/,2319,0,1939
+1586229504842,7715,acessar bing-1,200,OK,Grupo de Usuários 1-134,text,true,,86519,123,39,39,https://www.bing.com/?cc=br,7369,0,7177
+1586229502598,9969,acessar bing,200,OK,Grupo de Usuários 1-198,text,true,,86780,243,38,38,https://www.bing.com/?cc=br,2210,0,1839
+1586229502598,2210,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-198,,true,,261,120,38,38,https://www.bing.com.br/,2210,0,1839
+1586229504808,7759,acessar bing-1,200,OK,Grupo de Usuários 1-198,text,true,,86519,123,38,38,https://www.bing.com/?cc=br,7397,0,7199
+1586229503441,9134,acessar bing,200,OK,Grupo de Usuários 1-25,text,true,,86781,243,37,37,https://www.bing.com/?cc=br,7301,0,7277
+1586229503441,7301,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-25,,true,,261,120,37,37,https://www.bing.com.br/,7301,0,7277
+1586229510743,1832,acessar bing-1,200,OK,Grupo de Usuários 1-25,text,true,,86520,123,37,37,https://www.bing.com/?cc=br,1483,0,1276
+1586229502553,10024,acessar bing,200,OK,Grupo de Usuários 1-127,text,true,,86775,243,36,36,https://www.bing.com/?cc=br,2268,0,1895
+1586229502553,2268,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-127,,true,,261,120,36,36,https://www.bing.com.br/,2268,0,1895
+1586229504822,7755,acessar bing-1,200,OK,Grupo de Usuários 1-127,text,true,,86514,123,36,36,https://www.bing.com/?cc=br,7409,0,7197
+1586229502528,10055,acessar bing,200,OK,Grupo de Usuários 1-163,text,true,,86781,243,35,35,https://www.bing.com/?cc=br,2305,0,1933
+1586229502528,2305,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-163,,true,,261,120,35,35,https://www.bing.com.br/,2305,0,1933
+1586229504833,7750,acessar bing-1,200,OK,Grupo de Usuários 1-163,text,true,,86520,123,35,35,https://www.bing.com/?cc=br,7403,0,7186
+1586229502392,10193,acessar bing,200,OK,Grupo de Usuários 1-173,text,true,,86766,243,34,34,https://www.bing.com/?cc=br,2470,0,2124
+1586229502392,2470,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-173,,true,,261,120,34,34,https://www.bing.com.br/,2470,0,2124
+1586229504863,7722,acessar bing-1,200,OK,Grupo de Usuários 1-173,text,true,,86505,123,34,34,https://www.bing.com/?cc=br,7381,0,7156
+1586229502583,10003,acessar bing,200,OK,Grupo de Usuários 1-199,text,true,,86780,243,34,34,https://www.bing.com/?cc=br,2228,0,1865
+1586229502583,2228,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-199,,true,,261,120,34,34,https://www.bing.com.br/,2228,0,1865
+1586229504811,7775,acessar bing-1,200,OK,Grupo de Usuários 1-199,text,true,,86519,123,34,34,https://www.bing.com/?cc=br,7444,0,7198
+1586229502598,9989,acessar bing,200,OK,Grupo de Usuários 1-143,text,true,,86781,243,33,33,https://www.bing.com/?cc=br,2186,0,1817
+1586229502598,2186,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-143,,true,,261,120,33,33,https://www.bing.com.br/,2186,0,1817
+1586229504784,7803,acessar bing-1,200,OK,Grupo de Usuários 1-143,text,true,,86520,123,33,33,https://www.bing.com/?cc=br,7480,0,7246
+1586229502562,10025,acessar bing,200,OK,Grupo de Usuários 1-146,text,true,,86775,243,33,33,https://www.bing.com/?cc=br,2271,0,1896
+1586229502562,2271,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-146,,true,,261,120,33,33,https://www.bing.com.br/,2271,0,1896
+1586229504834,7753,acessar bing-1,200,OK,Grupo de Usuários 1-146,text,true,,86514,123,33,33,https://www.bing.com/?cc=br,7413,0,7185
+1586229502533,10059,acessar bing,200,OK,Grupo de Usuários 1-150,text,true,,86766,243,30,30,https://www.bing.com/?cc=br,2288,0,1923
+1586229502533,2288,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-150,,true,,261,120,30,30,https://www.bing.com.br/,2288,0,1923
+1586229504822,7770,acessar bing-1,200,OK,Grupo de Usuários 1-150,text,true,,86505,123,30,30,https://www.bing.com/?cc=br,7447,0,7208
+1586229502639,9958,acessar bing,200,OK,Grupo de Usuários 1-12,text,true,,86774,243,29,29,https://www.bing.com/?cc=br,2128,0,1714
+1586229502639,2128,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-12,,true,,261,120,29,29,https://www.bing.com.br/,2128,0,1714
+1586229504767,7830,acessar bing-1,200,OK,Grupo de Usuários 1-12,text,true,,86513,123,29,29,https://www.bing.com/?cc=br,7504,0,7263
+1586229502428,10171,acessar bing,200,OK,Grupo de Usuários 1-166,text,true,,86781,243,28,28,https://www.bing.com/?cc=br,2450,0,2131
+1586229502428,2450,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-166,,true,,261,120,28,28,https://www.bing.com.br/,2450,0,2131
+1586229504879,7720,acessar bing-1,200,OK,Grupo de Usuários 1-166,text,true,,86520,123,28,28,https://www.bing.com/?cc=br,7483,0,7197
+1586229502490,10119,acessar bing,200,OK,Grupo de Usuários 1-131,text,true,,86780,243,27,27,https://www.bing.com/?cc=br,2362,0,1990
+1586229502490,2362,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-131,,true,,261,120,27,27,https://www.bing.com.br/,2362,0,1990
+1586229504853,7756,acessar bing-1,200,OK,Grupo de Usuários 1-131,text,true,,86519,123,27,27,https://www.bing.com/?cc=br,7466,0,7195
+1586229502496,10114,acessar bing,200,OK,Grupo de Usuários 1-159,text,true,,86780,243,27,27,https://www.bing.com/?cc=br,2346,0,1980
+1586229502496,2346,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-159,,true,,261,120,27,27,https://www.bing.com.br/,2346,0,1980
+1586229504842,7768,acessar bing-1,200,OK,Grupo de Usuários 1-159,text,true,,86519,123,27,27,https://www.bing.com/?cc=br,7470,0,7206
+1586229502539,10074,acessar bing,200,OK,Grupo de Usuários 1-135,text,true,,86775,243,25,25,https://www.bing.com/?cc=br,2294,0,1917
+1586229502539,2294,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-135,,true,,261,120,25,25,https://www.bing.com.br/,2294,0,1917
+1586229504834,7779,acessar bing-1,200,OK,Grupo de Usuários 1-135,text,true,,86514,123,25,25,https://www.bing.com/?cc=br,7522,0,7237
+1586229502494,10120,acessar bing,200,OK,Grupo de Usuários 1-162,text,true,,86761,243,25,25,https://www.bing.com/?cc=br,2384,0,2053
+1586229502494,2384,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-162,,true,,261,120,25,25,https://www.bing.com.br/,2384,0,2053
+1586229504879,7735,acessar bing-1,200,OK,Grupo de Usuários 1-162,text,true,,86500,123,25,25,https://www.bing.com/?cc=br,7512,0,7209
+1586229502175,15476,acessar bing,200,OK,Grupo de Usuários 1-108,text,true,,86767,243,23,23,https://www.bing.com/?cc=br,15140,0,15122
+1586229502175,15140,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-108,,true,,261,120,23,23,https://www.bing.com.br/,15140,0,15122
+1586229517317,334,acessar bing-1,200,OK,Grupo de Usuários 1-108,text,true,,86506,123,23,23,https://www.bing.com/?cc=br,225,0,77
+1586229502175,15528,acessar bing,200,OK,Grupo de Usuários 1-105,text,true,,86781,243,22,22,https://www.bing.com/?cc=br,15167,0,15149
+1586229502180,15523,acessar bing,200,OK,Grupo de Usuários 1-110,text,true,,86780,243,22,22,https://www.bing.com/?cc=br,15160,0,15144
+1586229502176,15527,acessar bing,200,OK,Grupo de Usuários 1-21,text,true,,86780,243,22,22,https://www.bing.com/?cc=br,15164,0,15148
+1586229502175,15167,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-105,,true,,261,120,22,22,https://www.bing.com.br/,15167,0,15149
+1586229502176,15164,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-21,,true,,261,120,22,22,https://www.bing.com.br/,15164,0,15148
+1586229502180,15160,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-110,,true,,261,120,22,22,https://www.bing.com.br/,15160,0,15144
+1586229517344,359,acessar bing-1,200,OK,Grupo de Usuários 1-105,text,true,,86520,123,22,22,https://www.bing.com/?cc=br,246,0,95
+1586229517342,361,acessar bing-1,200,OK,Grupo de Usuários 1-110,text,true,,86519,123,22,22,https://www.bing.com/?cc=br,244,0,97
+1586229517342,361,acessar bing-1,200,OK,Grupo de Usuários 1-21,text,true,,86519,123,22,22,https://www.bing.com/?cc=br,246,0,97
+1586229502306,15480,acessar bing,200,OK,Grupo de Usuários 1-161,text,true,,86780,243,19,19,https://www.bing.com/?cc=br,15132,0,15111
+1586229502306,15132,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-161,,true,,261,120,19,19,https://www.bing.com.br/,15132,0,15111
+1586229517440,346,acessar bing-1,200,OK,Grupo de Usuários 1-161,text,true,,86519,123,19,19,https://www.bing.com/?cc=br,239,0,92
+1586229502307,15492,acessar bing,200,OK,Grupo de Usuários 1-177,text,true,,86767,243,18,18,https://www.bing.com/?cc=br,15148,0,15131
+1586229502307,15148,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-177,,true,,261,120,18,18,https://www.bing.com.br/,15148,0,15131
+1586229517457,342,acessar bing-1,200,OK,Grupo de Usuários 1-177,text,true,,86506,123,18,18,https://www.bing.com/?cc=br,232,0,82
+1586229501776,17374,acessar bing,200,OK,Grupo de Usuários 1-95,text,true,,86780,243,17,17,https://www.bing.com/?cc=br,1961,0,1577
+1586229501776,1961,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-95,,true,,261,120,17,17,https://www.bing.com.br/,1961,0,1577
+1586229503737,15413,acessar bing-1,200,OK,Grupo de Usuários 1-95,text,true,,86519,123,17,17,https://www.bing.com/?cc=br,15287,0,15141
+1586229501760,17510,acessar bing,200,OK,Grupo de Usuários 1-27,text,true,,86781,243,16,16,https://www.bing.com/?cc=br,1984,0,1613
+1586229501760,1984,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-27,,true,,261,120,16,16,https://www.bing.com.br/,1984,0,1613
+1586229503745,15525,acessar bing-1,200,OK,Grupo de Usuários 1-27,text,true,,86520,123,16,16,https://www.bing.com/?cc=br,15326,0,15173
+1586229501883,17426,acessar bing,200,OK,Grupo de Usuários 1-112,text,true,,86780,243,15,15,https://www.bing.com/?cc=br,1894,0,1520
+1586229501888,17421,acessar bing,200,OK,Grupo de Usuários 1-115,text,true,,86781,243,15,15,https://www.bing.com/?cc=br,1888,0,1514
+1586229501938,17371,acessar bing,200,OK,Grupo de Usuários 1-47,text,true,,86780,243,15,15,https://www.bing.com/?cc=br,1842,0,1465
+1586229501883,1894,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-112,,true,,261,120,15,15,https://www.bing.com.br/,1894,0,1520
+1586229501888,1888,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-115,,true,,261,120,15,15,https://www.bing.com.br/,1888,0,1514
+1586229503777,15532,acessar bing-1,200,OK,Grupo de Usuários 1-112,text,true,,86519,123,15,15,https://www.bing.com/?cc=br,15344,0,15185
+1586229501938,1842,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-47,,true,,261,120,15,15,https://www.bing.com.br/,1842,0,1465
+1586229503777,15532,acessar bing-1,200,OK,Grupo de Usuários 1-115,text,true,,86520,123,15,15,https://www.bing.com/?cc=br,15319,0,15164
+1586229503780,15529,acessar bing-1,200,OK,Grupo de Usuários 1-47,text,true,,86519,123,15,15,https://www.bing.com/?cc=br,15345,0,15182
+1586229502083,17242,acessar bing,200,OK,Grupo de Usuários 1-89,text,true,,86780,243,12,12,https://www.bing.com/?cc=br,1692,0,1325
+1586229502083,1692,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-89,,true,,261,120,12,12,https://www.bing.com.br/,1692,0,1325
+1586229503775,15550,acessar bing-1,200,OK,Grupo de Usuários 1-89,text,true,,86519,123,12,12,https://www.bing.com/?cc=br,15356,0,15191
+1586229502072,17341,acessar bing,200,OK,Grupo de Usuários 1-2,text,true,,86775,243,11,11,https://www.bing.com/?cc=br,1698,0,1324
+1586229502072,1698,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-2,,true,,261,120,11,11,https://www.bing.com.br/,1698,0,1324
+1586229503770,15643,acessar bing-1,200,OK,Grupo de Usuários 1-2,text,true,,86514,123,11,11,https://www.bing.com/?cc=br,15372,0,15209
+1586229501761,17653,acessar bing,200,OK,Grupo de Usuários 1-3,text,true,,86767,243,11,11,https://www.bing.com/?cc=br,1986,0,1616
+1586229501761,1986,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-3,,true,,261,120,11,11,https://www.bing.com.br/,1986,0,1616
+1586229503748,15666,acessar bing-1,200,OK,Grupo de Usuários 1-3,text,true,,86506,123,11,11,https://www.bing.com/?cc=br,15387,0,15214
+1586229501889,17525,acessar bing,200,OK,Grupo de Usuários 1-119,text,true,,86781,243,11,11,https://www.bing.com/?cc=br,1887,0,1512
+1586229501889,1887,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-119,,true,,261,120,11,11,https://www.bing.com.br/,1887,0,1512
+1586229503793,15621,acessar bing-1,200,OK,Grupo de Usuários 1-119,text,true,,86520,123,11,11,https://www.bing.com/?cc=br,15360,0,15186
+1586229502110,17305,acessar bing,200,OK,Grupo de Usuários 1-106,text,true,,86767,243,11,11,https://www.bing.com/?cc=br,1661,0,1292
+1586229502110,1661,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-106,,true,,261,120,11,11,https://www.bing.com.br/,1661,0,1292
+1586229503772,15643,acessar bing-1,200,OK,Grupo de Usuários 1-106,text,true,,86506,123,11,11,https://www.bing.com/?cc=br,15398,0,15213
+1586229501950,17468,acessar bing,200,OK,Grupo de Usuários 1-11,text,true,,86780,243,7,7,https://www.bing.com/?cc=br,1828,0,1454
+1586229501950,1828,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-11,,true,,261,120,7,7,https://www.bing.com.br/,1828,0,1454
+1586229503778,15640,acessar bing-1,200,OK,Grupo de Usuários 1-11,text,true,,86519,123,7,7,https://www.bing.com/?cc=br,15397,0,15207
+1586229501892,17535,acessar bing,200,OK,Grupo de Usuários 1-103,text,true,,86781,243,6,6,https://www.bing.com/?cc=br,1884,0,1510
+1586229501892,1884,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-103,,true,,261,120,6,6,https://www.bing.com.br/,1884,0,1510
+1586229503776,15651,acessar bing-1,200,OK,Grupo de Usuários 1-103,text,true,,86520,123,6,6,https://www.bing.com/?cc=br,15405,0,15209
+1586229501908,17524,acessar bing,200,OK,Grupo de Usuários 1-40,text,true,,86780,243,5,5,https://www.bing.com/?cc=br,1871,0,1495
+1586229501908,1871,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-40,,true,,261,120,5,5,https://www.bing.com.br/,1871,0,1495
+1586229503780,15652,acessar bing-1,200,OK,Grupo de Usuários 1-40,text,true,,86519,123,5,5,https://www.bing.com/?cc=br,15412,0,15209
+1586229502080,17357,acessar bing,200,OK,Grupo de Usuários 1-37,text,true,,86774,243,4,4,https://www.bing.com/?cc=br,1704,0,1332
+1586229502080,1704,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-37,,true,,261,120,4,4,https://www.bing.com.br/,1704,0,1332
+1586229503785,15652,acessar bing-1,200,OK,Grupo de Usuários 1-37,text,true,,86513,123,4,4,https://www.bing.com/?cc=br,15450,0,15211
+1586229502108,17338,acessar bing,200,OK,Grupo de Usuários 1-93,text,true,,86780,243,3,3,https://www.bing.com/?cc=br,1666,0,1296
+1586229502108,1666,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-93,,true,,261,120,3,3,https://www.bing.com.br/,1666,0,1296
+1586229503774,15672,acessar bing-1,200,OK,Grupo de Usuários 1-93,text,true,,86519,123,3,3,https://www.bing.com/?cc=br,15461,0,15222
+1586229502085,17367,acessar bing,200,OK,Grupo de Usuários 1-121,text,true,,86781,243,2,2,https://www.bing.com/?cc=br,1688,0,1318
+1586229502085,1688,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-121,,true,,261,120,2,2,https://www.bing.com.br/,1688,0,1318
+1586229503773,15679,acessar bing-1,200,OK,Grupo de Usuários 1-121,text,true,,86520,123,2,2,https://www.bing.com/?cc=br,15461,0,15231
+1586229502043,17411,acessar bing,200,OK,Grupo de Usuários 1-74,text,true,,86781,243,1,1,https://www.bing.com/?cc=br,1730,0,1361
+1586229502043,1730,acessar bing-0,301,Moved Permanently,Grupo de Usuários 1-74,,true,,261,120,1,1,https://www.bing.com.br/,1730,0,1361
+1586229503774,15680,acessar bing-1,200,OK,Grupo de Usuários 1-74,text,true,,86520,123,1,1,https://www.bing.com/?cc=br,15469,0,15221
